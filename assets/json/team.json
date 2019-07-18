@@ -1,0 +1,142 @@
+[
+    {
+        "displayPicture":"./assets/img/team/Abhilash.jpg",
+        "name":"Abhilash G Nair",
+        "description":"Community Organizer",
+        "links":[
+            {
+                "linkType": "Blog",
+                "link": "https://medium.com/@abhilash301199"
+            },
+            {
+                "linkType": "Twitter",
+                "link": "#"
+            },
+            {
+                "linkType": "Facebook",
+                "link": "https://www.facebook.com/abhilashg.nair.1289"
+            },
+            {
+                "linkType": "LinkedIn",
+                "link": "https://www.linkedin.com/in/abhilash-g-nair-42a71a163/"
+            }
+        ]
+    },
+    {
+       
+        "displayPicture":"./assets/img/team/Abhijeet.jpg",
+        "name":"Abhijeet C",
+        "description":"Community Organizer",
+        "links":[
+            {
+                "linkType": "Blog",
+                "link": "https://medium.com/@abhijeetcherungottil"
+            },
+            {
+                "linkType": "Twitter",
+                "link": "#"
+            },
+            {
+                "linkType": "Facebook",
+                "link": "https://www.facebook.com/abhijeet.cherungottil?ref=br_rs"
+            },
+            {
+                "linkType": "LinkedIn",
+                "link": "https://www.linkedin.com/in/abhijeet-b1693b161/"
+            }
+        ]
+    },
+    {
+        "displayPicture":"./assets/img/team/Abhinav.jpg",
+        "name":"Abhinav Shekhar",
+        "description":"Community Organizer",
+        "links":[
+            {
+                "linkType": "Blog",
+                "link": "#"
+            },
+            {
+                "linkType": "Twitter",
+                "link": "#"
+            },
+            {
+                "linkType": "Facebook",
+                "link": "https://www.facebook.com/profile.php?id=100011738042153"
+            },
+            {
+                "linkType": "LinkedIn",
+                "link": "https://www.linkedin.com/in/abhinav-shekhar-42306b172/"
+            }
+        ]
+    },
+    {
+        "displayPicture":"./assets/img/team/Aravind.jpg",
+        "name":"Aravind Venugopal",
+        "description":"Community Lead",
+        "links":[
+            {
+                "linkType": "Blog",
+                "link": "https://medium.com/@aravindvenugopal02"
+            },
+            {
+                "linkType": "Twitter",
+                "link": "https://twitter.com/AravindV1444"
+            },
+            {
+                "linkType": "Facebook",
+                "link": "https://www.facebook.com/aravind.venugopal.03"
+            },
+            {
+                "linkType": "LinkedIn",
+                "link": "https://www.linkedin.com/in/aravind1444/"
+            }
+        ]
+    },
+    {
+        "displayPicture":"./assets/img/team/Kavya.jpg",
+        "name":"Kavya Suresh",
+        "description":"Community Organizer",
+        "links":[
+            {
+                "linkType": "Blog",
+                "link": "#"
+            },
+            {
+                "linkType": "Twitter",
+                "link": "#"
+            },
+            {
+                "linkType": "Facebook",
+                "link": "https://www.facebook.com/VAMPIREDVA"
+            },
+            {
+                "linkType": "LinkedIn",
+                "link": "https://www.linkedin.com/in/kavya-suresh/"
+            }
+        ]
+    },
+    {
+        "displayPicture":"./assets/img/team/Bharath.jpg",
+        "name":"Bharath",
+        "description":"Community Organizer",
+        "links":[
+            {
+                "linkType": "Blog",
+                "link": "#"
+            },
+            {
+                "linkType": "Twitter",
+                "link": "#"
+            },
+            {
+                "linkType": "Facebook",
+                "link": "#"
+            },
+            {
+                "linkType": "LinkedIn",
+                "link": "#"
+            }
+        ]
+    }
+    
+]
