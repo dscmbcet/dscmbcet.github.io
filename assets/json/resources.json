@@ -44,7 +44,7 @@
 {
     "title": "W3Schools",
     "description": "W3Schools is an educational website for learning web technologies online. Content includes tutorials and references.",
-    "imgSrc": "http://webmatrix.co.in/wp-content/uploads/2017/12/web-development.jpg",
+    "imgSrc": "webmatrix.co.in/wp-content/uploads/2017/12/web-development.jpg",
     "link": "https://www.w3schools.com/"
 },
 {
@@ -104,7 +104,7 @@
 {
     "title": "Dev Ed",
     "description": "Learn web development, web design, 3d modelling with tools like Figma, and more without getting bored!\n                                   ",
-    "imgSrc": "http://devs.gr/uploads/84759-liam.jpg",
+    "imgSrc": "https://yt3.ggpht.com/a/AGF-l78S6HpvYGWhD-_s_qWcWco5iop55atgoXz53g=s900-c-k-c0xffffffff-no-rj-mo",
     "link": "https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q"
 },
 {
@@ -128,25 +128,25 @@
 {
     "title": "Fireship",
     "description": "Formerly Angular Firebase, It helps developers build high quality apps as fast as possible \u26a1. Uses all the modern Frameworks.",
-    "imgSrc": "https://d33wubrfki0l68.cloudfront.net/5d70e92210332b185daf6ae3 5a5d803b7e02661/c230c/showcase/fireship/featured_hu3bba7 627b7e233d29d5aecb29c8d0f1_136959_102 x512_fill_catmullrom_top_2.png",
+    "imgSrc": "https://yt3.ggpht.com/a/AGF-l79FkXYtRM1Xh0v7-zvYTimNTfOsGtS8hSE7eg=s900-mo-c-c0xffffffff-rj-k-no",
     "link": "https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA"
 },
 {
     "title": "IBM Developer",
     "description": " IBM Developer provides the best in open source tech, learning resources, by their experts.",
-    "imgSrc": "https://secure.meetupstatic.com/photos/event/a/b//1/600_79381.jpeg",
+    "imgSrc": "https://res.cloudinary.com/skillsmatter/image/upload/c_crop,g_custom/v1537359532/qalafqvh0gjdkpjamgd7.jpg",
     "link": "https://www.youtube.com/user/developerworks"
 },
 {
     "title": "Codegrid",
     "description": "Provides online content to help people learn about many concepts of web design, by implementing prolific tools.",
-    "imgSrc": "https://www.codegrid.net/img/ogp_102.png",
+    "imgSrc": "https://www.codegrid.net/img/ogp_1024.png",
     "link": "https://www.youtube.com/channel/UC7pVhoO31FyfQsZdXWejEw"
 },
 {
     "title": "Coding Tech",
     "description": "It partners with the tech conferences around the world that allow their videos to be republished here.",
-    "imgSrc": "https://res.cloudinary.com/teepublic/image/private/s--LHgdOqGB--/t_Preview/t_Watermark/b_rgb:191919,c_lpad,f_jpg,h_630,q_90,w_1200/v151351792/production/designs/218873_1.jpg",
+    "imgSrc": "https://yt3.ggpht.com/a/AGF-l78qFJuAlbvzkEvnoYRUVkDs0aDqhcXl7AGBCA=s900-mo-c-c0xffffffff-rj-k-no",
     "link": "https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLHwJaQ"
 },
 {
@@ -158,7 +158,7 @@
 {
     "title": "JSConf",
     "description": "JSConf is a series of JavaScript conferences from around the world.Find the Talks here. ",
-    "imgSrc": "https://www.cssdesignawards.com/cdasites/201/20112/201122723511.jpg",
+    "imgSrc": "https://jsconf.com/images/jsconf_ar.png",
     "link": "https://www.youtube.com/user/jsconfeu"
 },
 {
