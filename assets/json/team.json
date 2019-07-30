@@ -91,30 +91,7 @@
             }
         ]
     },
-    {
-       
-        "displayPicture":"./assets/img/team/Abhijeet.jpg",
-        "name":"Abhijeet C",
-        "description":"Community Organizer",
-        "links":[
-            {
-                "linkType": "Blog",
-                "link": "https://medium.com/@abhijeetcherungottil"
-            },
-            {
-                "linkType": "Twitter",
-                "link": "#"
-            },
-            {
-                "linkType": "Facebook",
-                "link": "https://www.facebook.com/abhijeet.cherungottil?ref=br_rs"
-            },
-            {
-                "linkType": "LinkedIn",
-                "link": "https://www.linkedin.com/in/abhijeet-b1693b161/"
-            }
-        ]
-    },
+   
     {
         "displayPicture":"./assets/img/team/Abhinav.jpg",
         "name":"Abhinav Shekhar",
