@@ -1,5 +1,11 @@
 [
     {
+        "title": "AWS DeepRacer",
+        "description": "Learn the fundamentals of machine learning and reinforcement learning in a fun and engaging way through autonomous driving with AWS DeepRacer with a scholarship from Udacity.. ",
+        "imgSrc": "https://d1.awsstatic.com/gamedev/ho/Final_assets/heroes/overlay-art/DeepRacer_Chrome_Hero.fef860ca51bde88d4fdf591ed8fe8668c1fd8343.png",
+        "link": "https://www.udacity.com/aws-deepracer-scholarship"
+        },
+    {
         "title": "Qwiklabs",
         "description": " Qwiklabs is a learning platform for those who want to become more familiar with operating cloud environments.",
         "imgSrc": "https://siliconangle.com/wp-content/blogs.dir/1/files/2018/07/Google-Next18_Day-0-7640.jpg",
