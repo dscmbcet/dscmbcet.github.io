@@ -1,17 +1,18 @@
 [
     {
+       "eventName": "Actions on Google",
+        "info":"DSC MBCET conducted this session to introduce Developer Student Clubs to the students. Around 20 students participated in the first event ",
+        "date":"10th August, 2019",
+        "imgSrc":"https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F67242115%2F322100952433%2F1%2Foriginal.20190801-141318?w=800&auto=compress&rect=0%2C27%2C1920%2C960&s=30b97a5fcc4e513981f0fc63d3cd3767",
+        "fbLink":"https://www.eventbrite.com/e/actions-on-google-tickets-67491116747" 
+    },
+    
+     {
         "eventName": "Event Zero",
         "info":"DSC MBCET conducted this session to introduce Developer Student Clubs to the students. Around 20 students participated in the first event ",
         "date":"12th April, 2019",
         "imgSrc":"./assets/img/Events/event1.png",
         "fbLink":"https://www.facebook.com/dscmbcet"
-    },
-    
-     {
-        "eventName": "Actions on Google",
-        "info":"DSC MBCET conducted this session to introduce Developer Student Clubs to the students. Around 20 students participated in the first event ",
-        "date":"10th August, 2019",
-        "imgSrc":"https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F67242115%2F322100952433%2F1%2Foriginal.20190801-141318?w=800&auto=compress&rect=0%2C27%2C1920%2C960&s=30b97a5fcc4e513981f0fc63d3cd3767",
-        "fbLink":"https://www.eventbrite.com/e/actions-on-google-tickets-67491116747"
     }
 ]
+
