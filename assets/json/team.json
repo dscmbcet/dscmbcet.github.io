@@ -116,7 +116,29 @@
         ]
     },
    
-   
+    {
+        "displayPicture":"./assets/img/team/Advaith.jpg",
+        "name":"Advaith U",
+        "description":"Community Organizer",
+        "links":[
+            {
+                "linkType": "Blog",
+                "link": "#"
+            },
+            {
+                "linkType": "Twitter",
+                "link": "#"
+            },
+            {
+                "linkType": "Facebook",
+                "link": "#"
+            },
+            {
+                "linkType": "LinkedIn",
+                "link": "https://www.linkedin.com/in/advaith-u-99695a17a/"
+            }
+        ]
+    },
     {
         "displayPicture":"./assets/img/team/Bharath.jpg",
         "name":"Bharath",
