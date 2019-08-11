@@ -87,7 +87,7 @@
     "title": "Google Developers",
     "description": "Google Developers is Google's site for software development tools, APIs, and technical resources. The site contains documentation for tools and APIs.",
     "imgSrc": "assets/img/kit/google_dev.png",
-    "link": "https://nodeschool.io/"
+    "link": "https://developers.google.com/products/"
 },
 {
     "title": "Papers with Code",
@@ -95,12 +95,7 @@
     "imgSrc": "https://cdn-images-1.medium.com/max/1200/1*F-eBWsHWtgsNJLlK3jN3XQ.png",
     "link": "https://paperswithcode.com/"
 },
-{
-    "title": "Papers with Code",
-    "description": "Papers With Code is a free and open resource with Machine Learning papers, code and evaluation tables.",
-    "imgSrc": "https://cdn-images-1.medium.com/max/1200/1*F-eBWsHWtgsNJLlK3jN3XQ.png",
-    "link": "https://paperswithcode.com/"
-},
+
 {
     "title": "CS50",
     "description": "CS50 is Harvard University's introduction to computer science and the art of programming. ",
