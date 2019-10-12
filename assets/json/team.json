@@ -23,7 +23,7 @@
         ]
     },
     {
-        "displayPicture":"./assets/img/team/Kavya.jpg",
+        "displayPicture":"./assets/img/team/Arya.jpg",
         "name":"Arya S P",
         "description":"Community Organizer",
         "links":[
@@ -37,15 +37,15 @@
             },
             {
                 "linkType": "Facebook",
-                "link": "https://www.facebook.com/VAMPIREDVA"
+                "link": "https://www.facebook.com/profile.php?id=100014356801004"
             },
             {
                 "linkType": "LinkedIn",
-                "link": "https://www.linkedin.com/in/kavya-suresh/"
+                "link": "#"
             }
         ]
     },
-         
+    
      {
         "displayPicture":"./assets/img/team/Aravind.jpg",
         "name":"Aravind Venugopal",
@@ -115,29 +115,7 @@
             }
         ]
     },
-    {
-        "displayPicture":"./assets/img/team/Arya.jpg",
-        "name":"Kavya Suresh",
-        "description":"Community Organizer",
-        "links":[
-            {
-                "linkType": "Blog",
-                "link": "#"
-            },
-            {
-                "linkType": "Twitter",
-                "link": "#"
-            },
-            {
-                "linkType": "Facebook",
-                "link": "https://www.facebook.com/profile.php?id=100014356801004"
-            },
-            {
-                "linkType": "LinkedIn",
-                "link": "#"
-            }
-        ]
-    },
+    
     {
         "displayPicture":"./assets/img/team/Ashik.jpg",
         "name":"Ashik A P",
@@ -184,7 +162,30 @@
             }
         ]
     },
-   
+   {
+        "displayPicture":"./assets/img/team/Kavya.jpg",
+        "name":"Kavya Suresh",
+        "description":"Community Organizer",
+        "links":[
+            {
+                "linkType": "Blog",
+                "link": "#"
+            },
+            {
+                "linkType": "Twitter",
+                "link": "#"
+            },
+            {
+                "linkType": "Facebook",
+                "link": "https://www.facebook.com/VAMPIREDVA"
+            },
+            {
+                "linkType": "LinkedIn",
+                "link": "https://www.linkedin.com/in/kavya-suresh/"
+            }
+        ]
+    },
+         
    
     {
         "displayPicture":"./assets/img/team/Bharath.jpg",
