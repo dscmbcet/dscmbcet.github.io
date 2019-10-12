@@ -22,9 +22,9 @@
             }
         ]
     },
-     {
+    {
         "displayPicture":"./assets/img/team/Kavya.jpg",
-        "name":"Kavya Suresh",
+        "name":"Arya S P",
         "description":"Community Organizer",
         "links":[
             {
@@ -45,6 +45,30 @@
             }
         ]
     },
+     {
+        "displayPicture":"./assets/img/team/Arya.jpg",
+        "name":"Kavya Suresh",
+        "description":"Community Organizer",
+        "links":[
+            {
+                "linkType": "Blog",
+                "link": "#"
+            },
+            {
+                "linkType": "Twitter",
+                "link": "#"
+            },
+            {
+                "linkType": "Facebook",
+                "link": "https://www.facebook.com/profile.php?id=100014356801004"
+            },
+            {
+                "linkType": "LinkedIn",
+                "link": "#"
+            }
+        ]
+    },
+    
      {
         "displayPicture":"./assets/img/team/Aravind.jpg",
         "name":"Aravind Venugopal",
@@ -91,7 +115,29 @@
             }
         ]
     },
-   
+    {
+        "displayPicture":"./assets/img/team/Ashik.jpg",
+        "name":"Ashik A P",
+        "description":"Community Organizer",
+        "links":[
+            {
+                "linkType": "Blog",
+                "link": "#"
+            },
+            {
+                "linkType": "Twitter",
+                "link": "#"
+            },
+            {
+                "linkType": "Facebook",
+                "link": "https://www.facebook.com/ashik2416"
+            },
+            {
+                "linkType": "LinkedIn",
+                "link": "https://www.linkedin.com/in/ashik-a-p-234193178/"
+            }
+        ]
+    },
     {
         "displayPicture":"./assets/img/team/Abhinav.jpg",
         "name":"Abhinav Shekhar",
