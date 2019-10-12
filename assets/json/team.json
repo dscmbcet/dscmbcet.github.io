@@ -45,30 +45,7 @@
             }
         ]
     },
-     {
-        "displayPicture":"./assets/img/team/Arya.jpg",
-        "name":"Kavya Suresh",
-        "description":"Community Organizer",
-        "links":[
-            {
-                "linkType": "Blog",
-                "link": "#"
-            },
-            {
-                "linkType": "Twitter",
-                "link": "#"
-            },
-            {
-                "linkType": "Facebook",
-                "link": "https://www.facebook.com/profile.php?id=100014356801004"
-            },
-            {
-                "linkType": "LinkedIn",
-                "link": "#"
-            }
-        ]
-    },
-    
+         
      {
         "displayPicture":"./assets/img/team/Aravind.jpg",
         "name":"Aravind Venugopal",
@@ -112,6 +89,29 @@
             {
                 "linkType": "LinkedIn",
                 "link": "https://www.linkedin.com/in/abhilash-g-nair-42a71a163/"
+            }
+        ]
+    },
+    {
+        "displayPicture":"./assets/img/team/Arya.jpg",
+        "name":"Kavya Suresh",
+        "description":"Community Organizer",
+        "links":[
+            {
+                "linkType": "Blog",
+                "link": "#"
+            },
+            {
+                "linkType": "Twitter",
+                "link": "#"
+            },
+            {
+                "linkType": "Facebook",
+                "link": "https://www.facebook.com/profile.php?id=100014356801004"
+            },
+            {
+                "linkType": "LinkedIn",
+                "link": "#"
             }
         ]
     },
