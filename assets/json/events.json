@@ -1,11 +1,5 @@
 [
-     {
-       "eventName": "Google AI | Explore ML",
-        "info":"Explore ML is a series of ML related events which ranges from basic to advanced level. Join us for the first Explore ML event at MBCET.",
-        "date":"15th November, 2019",
-        "imgSrc":"https://scontent-maa2-1.cdninstagram.com/vp/36947365e45dc775178c04a4fe0e9c0a/5E4F386B/t51.2885-15/e35/74713837_149073269716290_2732060141865754878_n.jpg?_nc_ht=scontent-maa2-1.cdninstagram.com&amp;_nc_cat=106",
-        "fbLink":"bit.ly/dscmbcetemlb" 
-    }
+     
     {
        "eventName": "Actions on Google",
         "info":"Actions on Google is a platfom where you can you can build smart actions for google Assistant. Get ready to build some actions. We will also deal with building chat bots without writing even a single line of code. This session is not intended for first years. ",
