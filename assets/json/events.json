@@ -1,5 +1,12 @@
 [
      {
+       "eventName": "Flutter Viewing Party",
+        "info":"Join us to know more about Flutter and watch the keynotes/updates about Flutter. Also get coupons to access the best Flutter course co created with Google for free.",
+        "date":"19th December, 2019",
+        "imgSrc":"https://1.bp.blogspot.com/-JavpIGa_sQ8/XdANiQI-r3I/AAAAAAAALms/CIihSXwIzGAG8PZ1Je7yD4bqJdMH3fi5wCLcBGAsYHQ/s1600/Untitled%2Bdesign%2B%25289%2529.png",
+        "fbLink":"https://docs.google.com/forms/d/e/1FAIpQLSfHCrhZCNV3vMhvdNIR8pXAUbEREjkFX7dSTxnFnsnY1n-BLA/viewform?usp=sf_link" 
+    },
+     {
        "eventName": "Google AI | Explore ML",
         "info":"Explore ML is a series of ML related events which ranges from basic to advanced level. Join us for the first Explore ML event at MBCET.",
         "date":"15th November, 2019",
