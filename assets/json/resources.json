@@ -1,16 +1,5 @@
 [
-     {
-        "title": "Udacity Bertelsmann Scholarship",
-        "description": "Learn Cloud DevOps, Data Analysis or Deep Learning with a scholarship from Bertelsmann on Udacity. Click below to get more details.  ",
-        "imgSrc": "https://blog.udacity.com/wp-content/uploads/2019/09/bertelsmann-fb-linkedin.png",
-        "link": "https://www.udacity.com/bertelsmann-tech-scholarships"
-        },
-    {
-        "title": "AWS DeepRacer",
-        "description": "Learn the fundamentals of machine learning and reinforcement learning in a fun and engaging way through autonomous driving with AWS DeepRacer with a scholarship from Udacity.. ",
-        "imgSrc": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/03/20/deep-racer-league.gif",
-        "link": "https://www.udacity.com/aws-deepracer-scholarship"
-        },
+     
     {
         "title": "Qwiklabs",
         "description": " Qwiklabs is a learning platform for those who want to become more familiar with operating cloud environments.",
