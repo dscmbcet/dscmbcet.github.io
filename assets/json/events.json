@@ -1,5 +1,12 @@
 [
      {
+       "eventName": "Python Bootcamp",
+        "info":"Join us for the first of its kind 16 Day Python Session, enirely covered during after hours. No coding background is required. Take the opportunity and move from beginner to intermediate level in Python.",
+        "date":"13th - 31st January 2020",
+        "imgSrc":"http://pluspng.com/img-png/python-logo-png-newpythonlogo-png-1024.png",
+        "fbLink":"bit.ly/dscmbcetpython" 
+    },
+     {
        "eventName": "Flutter Viewing Party",
         "info":"Join us to know more about Flutter and watch the keynotes/updates about Flutter. Also get coupons to access the best Flutter course co created with Google for free.",
         "date":"25th January, 2020",
