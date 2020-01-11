@@ -282,6 +282,30 @@
                 "link": "https://www.linkedin.com/in/mohammed-shahan-b17b57150"
             }
         ]
+    },
+    
+     {
+        "displayPicture":"./assets/img/team/Ravi.jpg",
+        "name":"Ravishankar S",
+        "description":" Web Development Tech Lead",
+        "links":[
+            {
+                "linkType": "Blog",
+                "link": "#"
+            },
+            {
+                "linkType": "Twitter",
+                "link": "#"
+            },
+            {
+                "linkType": "Facebook",
+                "link": "#"
+            },
+            {
+                "linkType": "LinkedIn",
+                "link": "#"
+            }
+        ]
     }
     
 ]
