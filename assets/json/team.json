@@ -232,6 +232,103 @@
                 "link": "#"
             }
         ]
+    },
+
+    {
+        "displayPicture":"./assets/img/team/Riya.jpg",
+        "name":"Riya Roshan Joseph",
+        "description":"UX Researcher",
+        "links":[
+            {
+                "linkType": "Blog",
+                "link": "#"
+            },
+            {
+                "linkType": "Twitter",
+                "link": "#"
+            },
+            {
+                "linkType": "Facebook",
+                "link": "#"
+            },
+            {
+                "linkType": "LinkedIn",
+                "link": "#"
+            }
+        ]
+    },
+
+    {
+        "displayPicture":"./assets/img/team/Venki.jpg",
+        "name":"Venkitesh S. Anand",
+        "description":"App Developer",
+        "links":[
+            {
+                "linkType": "Blog",
+                "link": "#"
+            },
+            {
+                "linkType": "Twitter",
+                "link": "#"
+            },
+            {
+                "linkType": "Facebook",
+                "link": "#"
+            },
+            {
+                "linkType": "LinkedIn",
+                "link": "#"
+            }
+        ]
+    },
+
+    {
+        "displayPicture":"./assets/img/team/Don.jpg",
+        "name":"Don Kora Jacob",
+        "description":"Android Tech Lead",
+        "links":[
+            {
+                "linkType": "Blog",
+                "link": "https://don-k-jacob.github.io/don_k_jacob.github.io/#"
+            },
+            {
+                "linkType": "Twitter",
+                "link": "#"
+            },
+            {
+                "linkType": "Facebook",
+                "link": "https://m.facebook.com/don.k.1004?ref=bookmarks"
+            },
+            {
+                "linkType": "LinkedIn",
+                "link": "https://www.linkedin.com/in/don-kora-jacob-70519a178"
+            }
+        ]
+    },
+
+
+    {
+        "displayPicture":"./assets/img/team/Shahan.jpg",
+        "name":"Mohammed Shahan",
+        "description":" Graphic Designer",
+        "links":[
+            {
+                "linkType": "Blog",
+                "link": "#"
+            },
+            {
+                "linkType": "Twitter",
+                "link": "#"
+            },
+            {
+                "linkType": "Facebook",
+                "link": "#"
+            },
+            {
+                "linkType": "LinkedIn",
+                "link": "https://www.linkedin.com/in/mohammed-shahan-b17b57150"
+            }
+        ]
     }
     
 ]
