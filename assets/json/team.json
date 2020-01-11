@@ -1,27 +1,5 @@
 [
-    {
-        "displayPicture":"./assets/img/team/Jinu.jpg",
-            "name":"Jinu Baby",
-        "description":"Faculty in Charge",
-        "links":[
-            {
-                "linkType": "Blog",
-                "link": "#"
-            },
-            {
-                "linkType": "Twitter",
-                "link": "#"
-            },
-            {
-                "linkType": "Facebook",
-                "link": "https://www.facebook.com/jinus.bj"
-            },
-            {
-                "linkType": "LinkedIn",
-                "link": "#"
-            }
-        ]
-    },
+   
     {
         "displayPicture":"./assets/img/team/Arya.jpg",
         "name":"Arya S P",
@@ -38,6 +16,54 @@
             {
                 "linkType": "Facebook",
                 "link": "https://www.facebook.com/profile.php?id=100014356801004"
+            },
+            {
+                "linkType": "LinkedIn",
+                "link": "#"
+            }
+        ]
+    },
+    
+     {
+        "displayPicture":"./assets/img/team/Riya.jpg",
+        "name":"Riya Roshan Joseph",
+        "description":"UX Researcher",
+        "links":[
+            {
+                "linkType": "Blog",
+                "link": "#"
+            },
+            {
+                "linkType": "Twitter",
+                "link": "#"
+            },
+            {
+                "linkType": "Facebook",
+                "link": "#"
+            },
+            {
+                "linkType": "LinkedIn",
+                "link": "#"
+            }
+        ]
+    },
+    
+     {
+        "displayPicture":"./assets/img/team/Jinu.jpg",
+            "name":"Jinu Baby",
+        "description":"Faculty in Charge",
+        "links":[
+            {
+                "linkType": "Blog",
+                "link": "#"
+            },
+            {
+                "linkType": "Twitter",
+                "link": "#"
+            },
+            {
+                "linkType": "Facebook",
+                "link": "https://www.facebook.com/jinus.bj"
             },
             {
                 "linkType": "LinkedIn",
@@ -186,31 +212,7 @@
             }
         ]
     },
-
-    {
-        "displayPicture":"./assets/img/team/Riya.jpg",
-        "name":"Riya Roshan Joseph",
-        "description":"UX Researcher",
-        "links":[
-            {
-                "linkType": "Blog",
-                "link": "#"
-            },
-            {
-                "linkType": "Twitter",
-                "link": "#"
-            },
-            {
-                "linkType": "Facebook",
-                "link": "#"
-            },
-            {
-                "linkType": "LinkedIn",
-                "link": "#"
-            }
-        ]
-    },
-
+    
     {
         "displayPicture":"./assets/img/team/Venki.jpg",
         "name":"Venkitesh S. Anand",
