@@ -142,6 +142,8 @@
             }
         ]
     },
+   
+   
     {
         "displayPicture":"./assets/img/team/Abhilash.jpg",
         "name":"Abhilash G Nair",
@@ -286,7 +288,7 @@
         ]
     },
 
-
+   
     {
         "displayPicture":"./assets/img/team/Shahan.jpg",
         "name":"Mohammed Shahan",
@@ -311,6 +313,7 @@
         ]
     },
     
+   
      {
         "displayPicture":"./assets/img/team/Ravi.jpg",
         "name":"Ravishankar S",
