@@ -23,6 +23,30 @@
             }
         ]
     },
+   
+    {
+        "displayPicture":"./assets/img/team/Meenakshy.jpg",
+        "name":"B.S Meenakshy",
+        "description":"Social Media Manager",
+        "links":[
+            {
+                "linkType": "Blog",
+                "link": "#"
+            },
+            {
+                "linkType": "Twitter",
+                "link": "#"
+            },
+            {
+                "linkType": "Facebook",
+                "link": "https://www.facebook.com/MeenakshyOfficial"
+            },
+            {
+                "linkType": "LinkedIn",
+                "link": "https://www.linkedin.com/in/b-s-meenakshy-0010721a0"
+            }
+        ]
+    },
     
      {
         "displayPicture":"./assets/img/team/Riya.jpg",
