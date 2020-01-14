@@ -1,5 +1,27 @@
 [
-   
+  {
+        "displayPicture":"./assets/img/team/Jinu.jpg",
+            "name":"Jinu Baby",
+        "description":"Faculty in Charge",
+        "links":[
+            {
+                "linkType": "Blog",
+                "link": "#"
+            },
+            {
+                "linkType": "Twitter",
+                "link": "#"
+            },
+            {
+                "linkType": "Facebook",
+                "link": "https://www.facebook.com/jinus.bj"
+            },
+            {
+                "linkType": "LinkedIn",
+                "link": "#"
+            }
+        ]
+    }, 
     {
         "displayPicture":"./assets/img/team/Arya.jpg",
         "name":"Arya S P",
@@ -72,29 +94,7 @@
         ]
     },
     
-     {
-        "displayPicture":"./assets/img/team/Jinu.jpg",
-            "name":"Jinu Baby",
-        "description":"Faculty in Charge",
-        "links":[
-            {
-                "linkType": "Blog",
-                "link": "#"
-            },
-            {
-                "linkType": "Twitter",
-                "link": "#"
-            },
-            {
-                "linkType": "Facebook",
-                "link": "https://www.facebook.com/jinus.bj"
-            },
-            {
-                "linkType": "LinkedIn",
-                "link": "#"
-            }
-        ]
-    },
+     
     
      {
         "displayPicture":"./assets/img/team/Aravind.jpg",
@@ -317,7 +317,7 @@
      {
         "displayPicture":"./assets/img/team/Ravi.jpg",
         "name":"Ravishankar S",
-        "description":" Web Development Tech Lead",
+        "description":" Web Tech Lead",
         "links":[
             {
                 "linkType": "Blog",
