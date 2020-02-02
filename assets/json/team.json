@@ -241,7 +241,7 @@
     },
     
     {
-        "displayPicture":"./assets/img/team/Venki.jpg",
+        "displayPicture":"./assets/img/team/Venki.PNG",
         "name":"Venkitesh S. Anand",
         "description":"App Developer",
         "links":[
@@ -265,7 +265,7 @@
     },
 
     {
-        "displayPicture":"./assets/img/team/Don.jpg",
+        "displayPicture":"./assets/img/team/Don.PNG",
         "name":"Don Kora Jacob",
         "description":"Android Tech Lead",
         "links":[
@@ -290,7 +290,7 @@
 
    
     {
-        "displayPicture":"./assets/img/team/Shahan.jpg",
+        "displayPicture":"./assets/img/team/Shahan.PNG",
         "name":"Mohammed Shahan",
         "description":" Graphic Designer",
         "links":[
