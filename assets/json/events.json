@@ -1,5 +1,12 @@
-[
-     {
+[ 
+    {
+       "eventName": "Flutter Bootcamp",
+        "info":"Join us to know more about Flutter and how to get started with it. Also participate in our give away worth more than 100k+ for free.",
+        "date":"24th - 28th March, 2020",
+        "imgSrc":"https://1.bp.blogspot.com/-f-i7-1zBLIk/XniP00i61jI/AAAAAAAAM-Q/qxF0MuQG7z8k2o8OSUtlcTeCooi9JhwwgCLcBGAsYHQ/s1600/dscmbcetfb.png",
+        "fbLink":"bit.ly/dscmbcetfb1" 
+    },    
+    {
        "eventName": "Flutter Interact Viewing Party",
         "info":"Join us to know more about Flutter and how to get started with it. Also participate in our give away worth more than 100k+ for free.",
         "date":"7th February, 2020",
