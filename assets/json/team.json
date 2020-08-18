@@ -120,7 +120,7 @@
         ]
     },
      {
-        "displayPicture":"./assets/img/team/Advaith.jpg",
+        "displayPicture":"./assets/img/team/advaith.jpg",
         "name":"Advaith U",
         "description":"Community Organizer",
         "links":[
@@ -130,7 +130,7 @@
             },
             {
                 "linkType": "Twitter",
-                "link": "https://twitter.com/advaithunnikri1"
+                "link": "https://twitter.com/advaith_unni"
             },
             {
                 "linkType": "Facebook",
@@ -138,7 +138,7 @@
             },
             {
                 "linkType": "LinkedIn",
-                "link": "https://www.linkedin.com/in/advaith-u-99695a17a/"
+                "link": "https://www.linkedin.com/in/advaithu/"
             }
         ]
     },
