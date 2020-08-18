@@ -9,7 +9,7 @@
 {
         "title": "Codelabs",
         "description": "Codelabs provide a guided, hands-on coding experience. Most codelabs will step you through the process of building a small application, or adding a new feature to an existing application. ",
-        "imgSrc": "https://googlecloud.tips/img/031/codelabs.png",
+        "imgSrc": "assets/img/logos/codelab.png",
         "link": "https://codelabs.developers.google.com/"
         },
 {
@@ -136,7 +136,7 @@
 {
     "title": "Codegrid",
     "description": "Provides online content to help people learn about many concepts of web design, by implementing prolific tools.",
-    "imgSrc": "https://www.codegrid.net/img/ogp_1024.png",
+    "imgSrc": "assets/img/logos/codegrid.jpg",
     "link": "https://www.youtube.com/channel/UC7pVhoO31FyfQsZdXWejEw"
 },
 {
@@ -160,7 +160,7 @@
 {
     "title": "Flutter",
     "description": " The Official Flutter YouTube channel. Subscribe to stay up to date with best practices about the Flutter SDK.",
-    "imgSrc": "https://www.spiria.com/site/assets/files/2790/flutter-bandeau.-large.png",
+    "imgSrc": "assets/img/logos/flutter.png",
     "link": "https://www.youtube.com/channel/UCwXdFgeE9KYzlDdR7TG9cMw"
 },
 {
