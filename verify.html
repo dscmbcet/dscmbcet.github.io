@@ -1,0 +1,162 @@
+<!DOCTYPE html> 
+<html> 
+<style> 
+	/*set border to the form*/ 
+	
+	form { 
+		border: 3px solid #f1f1f1; 
+	} 
+	/*assign full width inputs*/ 
+	
+	input[type=text], 
+	input[type=password] { 
+		width: 100%; 
+		padding: 12px 20px; 
+		margin: 8px 0; 
+		display: inline-block; 
+		border: 1px solid #ccc; 
+		box-sizing: border-box; 
+	} 
+	/*set a style for the buttons*/ 
+	
+	button { 
+		background-color: #139e57; 
+		color: white; 
+		padding: 14px 20px; 
+		margin: 8px 0; 
+		border: none; 
+		cursor: pointer; 
+		width: 100%; 
+	} 
+	/* set a hover effect for the button*/ 
+	
+	button:hover { 
+		opacity: 0.8; 
+	} 
+	/*set extra style for the cancel button*/ 
+	
+	.cancelbtn { 
+		width: auto; 
+		padding: 10px 18px; 
+		background-color: #f44336; 
+	} 
+	/*centre the display image inside the container*/ 
+	
+	.imgcontainer { 
+		text-align: center; 
+		margin: 24px 0 12px 0; 
+	} 
+	/*set image properties*/ 
+	
+	img.avatar { 
+		width: 40%; 
+		border-radius: 50%; 
+	} 
+	/*set padding to the container*/ 
+	
+	.container { 
+		padding: 16px; 
+	} 
+	/*set the forgot password text*/ 
+	
+	span.psw { 
+		float: right; 
+		padding-top: 16px; 
+	} 
+	/*set styles for span and cancel button on small screens*/ 
+	
+	@media screen and (max-width: 300px) { 
+		span.psw { 
+			display: block; 
+			float: none; 
+		} 
+		.cancelbtn { 
+			width: 100%; 
+		} 
+	} 
+</style> 
+
+<body> 
+
+	<h2 style="text-align: center;">DSC Certificate Verifier</h2> 
+	<form action="/action_page.php"> 
+		<div class="imgcontainer"> 
+			<img src= 
+"https://firebasestorage.googleapis.com/v0/b/oorja-c06f7.appspot.com/o/dsc.png?alt=media&token=0ae7adeb-6595-444f-9768-60e952f338e4"
+				alt="Avatar" class="avatar"> 
+		</div> 
+
+		<div class="container"> 
+			<label><b>Certificate ID</b></label> 
+			<input type="text" id="certid" placeholder="Enter Certificate ID" name="" required> 
+			<button type="submit" onclick="validate()">Verify</button> 
+			</div> 
+
+		
+	</form> 
+
+
+<script>
+	function validate(){
+var cert = document.getElementById("certid").value;
+if ( cert == "20192001"){
+    alert("Verified\n\nName : Ashik A P");
+window.location = "index.html";
+    
+}
+else if(cert == "20192002"){
+	alert("Verified\n\nName : Abhilash G Nair");
+	window.location = "index.html";
+}
+else if(cert == "20192003"){
+	alert("Verified\n\nName : Abhinav Shekhar");
+		window.location = "index.html";
+}
+else if(cert == "20192004"){
+	alert("Verified\n\nName : B S Meenakshy");
+	window.location = "index.html";
+}
+else if(cert == "20192005"){
+	alert("Verified\n\nName : Arya S Potti");
+	window.location = "index.html";
+}
+else if(cert == "20192006"){
+	alert("Verified\n\nName : Riya Roshen Joseph");
+	window.location = "index.html";
+}
+else if(cert == "20192007"){
+	alert("Verified\n\nName : Advaith U");
+	window.location = "index.html";
+}
+else if(cert == "20192008"){
+	alert("Verified\n\nName : Venkitesh S Anand");
+	window.location = "index.html";
+}
+else if(cert == "20192009"){
+	alert("Verified\n\nName : Bharath T U");
+	window.location = "index.html";
+}
+else if(cert == "201920010"){
+	alert("Verified\n\nName : Don Kora Jacob");
+	window.location = "index.html";
+}
+else if(cert == "201920011"){
+	alert("Verified\n\nName : Mohammed Shahan");
+	window.location = "index.html";
+}
+else if(cert == "201920012"){
+	alert("Verified\n\nName : Ravishankar S");
+	window.location = "index.html";
+}
+else {
+    alert ("No User found / Incorrect Credentials");
+    window.location = "verify.html";
+}
+}
+</script>
+</body> 
+
+
+</html> 
+
+
