@@ -72,7 +72,7 @@
     },
       
     {
-        "displayPicture":"./assets/img/team/Arya.jpg",
+        "displayPicture":"./assets/img/team/kesia.jpg",
         "name":"Kesia Mary Joies",
         "description":"Community Organizer",
         "links":[
@@ -90,19 +90,19 @@
             },
             {
                 "linkType": "LinkedIn",
-                "link": "#"
+                "link": "https://www.linkedin.com/in/kesia-joies/"
             }
         ]
     },
 
     {
-        "displayPicture":"./assets/img/team/Abhilash.jpg",
+        "displayPicture":"./assets/img/team/aswin.jpeg",
         "name":"M Aswin Kishore",
         "description":"Community Organizer",
         "links":[
             {
                 "linkType": "Blog",
-                "link": "https://medium.com/@abhilash301199"
+                "link": "#"
             },
             {
                 "linkType": "Twitter",
@@ -110,17 +110,17 @@
             },
             {
                 "linkType": "Facebook",
-                "link": "https://www.facebook.com/abhilashg.nair.1289"
+                "link": "#"
             },
             {
                 "linkType": "LinkedIn",
-                "link": "https://www.linkedin.com/in/abhilash-g-nair-42a71a163/"
+                "link": "https://www.linkedin.com/in/maswinkishore/"
             }
         ]
     },
 
     {
-        "displayPicture":"./assets/img/team/Ashik.jpg",
+        "displayPicture":"./assets/img/team/kesia.jpg",
         "name":"Roshni Roy",
         "description":"Community Organizer",
         "links":[
@@ -134,17 +134,17 @@
             },
             {
                 "linkType": "Facebook",
-                "link": "https://www.facebook.com/ashik2416"
+                "link": "#"
             },
             {
                 "linkType": "LinkedIn",
-                "link": "https://www.linkedin.com/in/ashik-a-p-234193178/"
+                "link": "https://www.linkedin.com/in/roshni-roy-7291a21b5"
             }
         ]
     },
 
     {
-        "displayPicture":"./assets/img/team/Abhinav.jpg",
+        "displayPicture":"./assets/img/team/meenakshi.jpeg",
         "name":"Meenakshy Sunil",
         "description":"Community Organizer",
         "links":[
@@ -158,17 +158,17 @@
             },
             {
                 "linkType": "Facebook",
-                "link": "https://www.facebook.com/profile.php?id=100011738042153"
+                "link": "#"
             },
             {
                 "linkType": "LinkedIn",
-                "link": "https://www.linkedin.com/in/abhinav-shekhar-42306b172/"
+                "link": "https://www.linkedin.com/in/meenakshy-sunil-7bb3b41b4/"
             }
         ]
     },
 
     {
-        "displayPicture":"#",
+        "displayPicture":"./assets/img/team/riya.jpg",
         "name":"Riya P Mathew",
         "description":"AI/ML Lead",
         "links":[
@@ -186,7 +186,7 @@
             },
             {
                 "linkType": "LinkedIn",
-                "link": "#"
+                "link": "http://www.linkedin.com/in/riya-p-mathew-3ab88b1a0"
             }
         ]
     },
@@ -240,7 +240,7 @@
     },
    
     {
-        "displayPicture":"./assets/img/team/Ravi.jpg",
+        "displayPicture":"./assets/img/team/kevin.jpg",
         "name":"Kevin Jacob",
         "description":" Web Tech Lead",
         "links":[
@@ -258,7 +258,7 @@
             },
             {
                 "linkType": "LinkedIn",
-                "link": "#"
+                "link": "https://www.linkedin.com/in/kevinjacob2001/"
             }
         ]
     },
@@ -289,7 +289,7 @@
     },
 
     {
-        "displayPicture":"./assets/img/team/meenakshy.jpg",
+        "displayPicture":"./assets/img/team/sanna.jpeg",
         "name":"Sanna Pramod",
         "description":"Social Media Manager",
         "links":[
@@ -313,7 +313,7 @@
     },
     
      {
-        "displayPicture":"./assets/img/team/Riya.jpg",
+        "displayPicture":"./assets/img/team/salman.png",
         "name":"Salman Faariz",
         "description":"UI/UX Designer",
         "links":[
@@ -331,7 +331,7 @@
             },
             {
                 "linkType": "LinkedIn",
-                "link": "#"
+                "link": "https://www.linkedin.com/in/salman-faariz-37b892194"
             }
         ]
     },
@@ -379,13 +379,13 @@
             },
             {
                 "linkType": "LinkedIn",
-                "link": "#"
+                "link": "https://www.linkedin.com/in/venkitesh-s-anand-858ba418a/"
             }
         ]
     },
 
     {
-        "displayPicture":"./assets/img/team/Venkitesh.PNG",
+        "displayPicture":"./assets/img/team/amal.JPG",
         "name":"Amal Joe R S",
         "description":"App Developer",
         "links":[
@@ -403,13 +403,13 @@
             },
             {
                 "linkType": "LinkedIn",
-                "link": "#"
+                "link": "https://www.linkedin.com/in/amal-joe-r-s-16a50918b"
             }
         ]
     },
     
     {
-        "displayPicture":"./assets/img/team/Venkitesh.PNG",
+        "displayPicture":"./assets/img/team/navaneeth.jpg",
         "name":"Navaneeth Venu",
         "description":"Graphic Designer",
         "links":[
@@ -427,13 +427,13 @@
             },
             {
                 "linkType": "LinkedIn",
-                "link": "#"
+                "link": "https://www.linkedin.com/in/navaneeth-venu-3481a31b5/"
             }
         ]
     },
     
     {
-        "displayPicture":"./assets/img/team/Venkitesh.PNG",
+        "displayPicture":"./assets/img/team/govind.jpeg",
         "name":"Govind B Chandran",
         "description":"Web Developer",
         "links":[
@@ -451,7 +451,7 @@
             },
             {
                 "linkType": "LinkedIn",
-                "link": "#"
+                "link": "https://www.linkedin.com/in/govind-chandran-46821a193/"
             }
         ]
     }  
