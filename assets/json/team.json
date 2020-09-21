@@ -361,30 +361,6 @@
     },
     
     {
-        "displayPicture":"./assets/img/team/Venkitesh.PNG",
-        "name":"Venkitesh S. Anand",
-        "description":"App Developer",
-        "links":[
-            {
-                "linkType": "Blog",
-                "link": "#"
-            },
-            {
-                "linkType": "Twitter",
-                "link": "#"
-            },
-            {
-                "linkType": "Facebook",
-                "link": "#"
-            },
-            {
-                "linkType": "LinkedIn",
-                "link": "https://www.linkedin.com/in/venkitesh-s-anand-858ba418a/"
-            }
-        ]
-    },
-
-    {
         "displayPicture":"./assets/img/team/amal.JPG",
         "name":"Amal Joe R S",
         "description":"App Developer",
