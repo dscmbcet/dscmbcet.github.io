@@ -166,5 +166,53 @@
         "description": " Two Minute Papers is a series where the author attempt to explain many interesting research works, a couple minutes at a time. You don’t need to be an expert at mathematics or have any kind of science degree – the language of this series is understandable to anyone.",
         "imgSrc": "https://yt3.ggpht.com/a/AGF-l7-HtigQFRSxp4OSMyQBRLmkarVw-R9FomFsvw=s900-mo-c-c0xffffffff-rj-k-no",
         "link": "https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg"
+    },
+    {
+        "title": "HTML Dog",
+        "description": "HTML Dog is a website covering the three primary languages of web development, HTML, CSS, and Javascript.",
+        "imgSrc": "assets/img/logos/html-dog.png",
+        "link": "https://www.htmldog.com/"
+    },
+    {
+        "title": "dev.to",
+        "description": "dev.to or just DEV is a community of software developers who write articles, take part in discussions, and build their professional profiles.",
+        "imgSrc": "https://d2fltix0v2e0sb.cloudfront.net/dev-black.png",
+        "link": "https://dev.to/"
+    },
+    {
+        "title": "Codrops",
+        "description": "Codrops is a design and development blog with articles and tutorials about the latest web tips and trends.",
+        "imgSrc": "assets/img/logos/codrops.png",
+        "link": "https://tympanus.net/codrops/"
+    },
+    {
+        "title": "SoloLearn",
+        "description": "SoloLearn is an online and mobile learning platform that offers free coding classes in multiple programming languages.",
+        "imgSrc": "assets/img/logos/sololearn.png",
+        "link": "https://www.sololearn.com/"
+    },
+    {
+        "title": "CSS-Tricks",
+        "description": "A blog with daily articles about CSS, HTML, JavaScript, and all things related to web design and development.",
+        "imgSrc": "assets/img/logos/sololearn.png",
+        "link": "https://css-tricks.com/"
+    },
+    {
+        "title": "EdX",
+        "description": "EdX is an open-source higher education program governed by MIT and Harvard. The site offers over 600 great courses under the “computer science” category, teaching various coding languages.",
+        "imgSrc": "assets/img/logos/edx.png",
+        "link": "https://www.edx.org/"
+    },
+    {
+        "title": "Code Conquest",
+        "description": "Code Conquest is a free online guide to coding for beginners. Learn how to learn to code, watch free tutorials, download cheat sheets, test your knowledge with quizzes, and more.",
+        "imgSrc": "assets/img/logos/code-conquest.png",
+        "link": "https://www.codeconquest.com/"
+    },
+    {
+        "title": "hackr.io",
+        "description": "hackr.io is a list of community-curated programming resources. Search for a language and you’ll get a list of the best online courses, tutorials, and books recommended by coders.",
+        "imgSrc": "assets/img/logos/hackrio.png",
+        "link": "https://hackr.io/"
     }
 ]
