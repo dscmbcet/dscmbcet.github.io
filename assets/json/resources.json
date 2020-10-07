@@ -144,12 +144,6 @@
         "link": "https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLHwJaQ"
     },
     {
-        "title": "FreeCodeCamp",
-        "description": "We're an open source community of busy people who learn to code and build projects for nonprofits. And let others learn. ",
-        "imgSrc": "https://i.chzbgr.com/full/7711237/h0DF66DC/",
-        "link": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ"
-    },
-    {
         "title": "JSConf",
         "description": "JSConf is a series of JavaScript conferences from around the world.Find the Talks here. ",
         "imgSrc": "https://jsconf.com/images/jsconf_ar.png",
@@ -214,5 +208,59 @@
         "description": "hackr.io is a list of community-curated programming resources. Search for a language and you’ll get a list of the best online courses, tutorials, and books recommended by coders.",
         "imgSrc": "assets/img/logos/hackrio.png",
         "link": "https://hackr.io/"
+    },
+    {
+      "title": "Python",
+      "description": "Python.org is the official Python website for downloads, documentation, events, tutorials and more.",
+      "imgSrc": "assets/img/logos/python.png",
+      "link": "https://python.org/"
+    },
+    {
+      "title": "Real Python",
+      "description": "The Real Python website offers Python tutorials, video courses, quizzes and learning paths. There is an active community associated with Real Python.",
+      "imgSrc": "assets/img/logos/realpython.png",
+      "link": "https://realpython.com/"
+    },
+    {
+      "title": "codebar.io",
+      "description": "codebar is a non-profit organisation that facilitates the growth of a diverse tech community by running free regular programming workshops for minority groups in tech.",
+      "imgSrc": "assets/img/logos/codebar.png",
+      "link": "https://codebar.io/"
+    },
+    {
+      "title": "Django",
+      "description": "Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. It is free and open source.",
+      "imgSrc": "assets/img/logos/django.png",
+      "link": "https://www.djangoproject.com/"
+    },
+    {
+      "title": "Bootstrap",
+      "description": "Bootstrap is a free and open-source CSS framework for responsive, mobile-first web development with design templates for typography, forms, navigation, and other interface components.",
+      "imgSrc": "assets/img/logos/bootstrap.png",
+      "link": "https://getbootstrap.com/"
+    },
+    {
+      "title": "Flavio Copes",
+      "description": "Website with free e-books, tutorials and snippets for various programming languages.",
+      "imgSrc": "flaviocopes.png",
+      "link": "https://flaviocopes.com/"
+    },
+    {
+      "title": "npm",
+      "description": "The free npm registry has become the center of JavaScript code sharing, and with more than one million packages, the largest software registry in the world.",
+      "imgSrc": "npm.png",
+      "link": "https://www.npmjs.com/"
+    },
+    {
+      "title": "Ruby",
+      "description": "Ruby is a dynamic, open source programming language with a focus on simplicity and productivity. It has a syntax that is natural to read and easy to write.",
+      "imgSrc": "ruby.png",
+      "link": "https://www.ruby-lang.org/en/"
+    },
+    {
+      "title": "Rails",
+      "description": "Rails is a web-application framework that includes everything needed to create database-backed web applications according to the Model-View-Controller (MVC) pattern.",
+      "imgSrc": "rails.png",
+      "link": "https://rubyonrails.org/"
     }
 ]
