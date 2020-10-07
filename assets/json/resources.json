@@ -242,25 +242,25 @@
     {
       "title": "Flavio Copes",
       "description": "Website with free e-books, tutorials and snippets for various programming languages.",
-      "imgSrc": "flaviocopes.png",
+      "imgSrc": "assets/img/logos/flaviocopes.png",
       "link": "https://flaviocopes.com/"
     },
     {
       "title": "npm",
       "description": "The free npm registry has become the center of JavaScript code sharing, and with more than one million packages, the largest software registry in the world.",
-      "imgSrc": "npm.png",
+      "imgSrc": "assets/img/logos/npm.png",
       "link": "https://www.npmjs.com/"
     },
     {
       "title": "Ruby",
       "description": "Ruby is a dynamic, open source programming language with a focus on simplicity and productivity. It has a syntax that is natural to read and easy to write.",
-      "imgSrc": "ruby.png",
+      "imgSrc": "assets/img/logos/ruby.png",
       "link": "https://www.ruby-lang.org/en/"
     },
     {
       "title": "Rails",
       "description": "Rails is a web-application framework that includes everything needed to create database-backed web applications according to the Model-View-Controller (MVC) pattern.",
-      "imgSrc": "rails.png",
+      "imgSrc": "assets/img/logos/rails.png",
       "link": "https://rubyonrails.org/"
     }
 ]
