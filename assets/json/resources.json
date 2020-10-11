@@ -30,6 +30,12 @@
         "link": "https://www.codecademy.com/"
     },
     {
+        "title": "DigitalOcean Community Tutorials",
+        "description": "DigitalOcean Community Tutorials help you learn, build, and scale with comprehensive guides written and trusted by developers.",
+        "imgSrc": "https://www.digitalocean.com/assets/community/illustrations/DigitalOcean_Community-e00e73a18df20667c3117725e727f3ade330204dff619ad8153050ded7341627.jpg",
+        "link": "https://www.digitalocean.com/community/tutorials"
+    },
+    {
         "title": "Codewars",
         "description": "An educational community for programming. On the platform, software developers train on programming challenges known as kata. ",
         "imgSrc": "https://user-images.githubusercontent.com/639336/27248733-c6d12b30-52bc-11e7-949e-ff55b187bd18.png",
