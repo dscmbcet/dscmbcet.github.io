@@ -1,9 +1,9 @@
 [
-  {
-        "displayPicture":"./assets/img/team/Jinu.png",
-            "name":"Jinu Baby",
-        "description":"Faculty in Charge",
-        "links":[
+    {
+        "displayPicture": "./assets/img/team/Jinu.png",
+        "name": "Jinu Baby",
+        "description": "Faculty in Charge",
+        "links": [
             {
                 "linkType": "Blog",
                 "link": "#"
@@ -22,12 +22,11 @@
             }
         ]
     },
-    
     {
-        "displayPicture":"./assets/img/team/Advaith.png",
-        "name":"Advaith U",
-        "description":"Community Lead",
-        "links":[
+        "displayPicture": "./assets/img/team/Advaith.png",
+        "name": "Advaith U",
+        "description": "Community Lead",
+        "links": [
             {
                 "linkType": "Blog",
                 "link": "https://medium.com/@advaithunni2000"
@@ -46,12 +45,11 @@
             }
         ]
     },
-
     {
-        "displayPicture":"./assets/img/team/Aravind.png",
-        "name":"Aravind Venugopal",
-        "description":"Community Mentor",
-        "links":[
+        "displayPicture": "./assets/img/team/Aravind.png",
+        "name": "Aravind Venugopal",
+        "description": "Community Mentor",
+        "links": [
             {
                 "linkType": "Blog",
                 "link": "https://medium.com/@aravindvenugopal02"
@@ -70,12 +68,11 @@
             }
         ]
     },
-      
     {
-        "displayPicture":"./assets/img/team/kesia.png",
-        "name":"Kesia Mary Joies",
-        "description":"Community Organizer",
-        "links":[
+        "displayPicture": "./assets/img/team/kesia.png",
+        "name": "Kesia Mary Joies",
+        "description": "Community Organizer",
+        "links": [
             {
                 "linkType": "Blog",
                 "link": "#"
@@ -94,12 +91,11 @@
             }
         ]
     },
-
     {
-        "displayPicture":"./assets/img/team/aswin.png",
-        "name":"M Aswin Kishore",
-        "description":"Community Organizer",
-        "links":[
+        "displayPicture": "./assets/img/team/aswin.png",
+        "name": "M Aswin Kishore",
+        "description": "Community Organizer",
+        "links": [
             {
                 "linkType": "Blog",
                 "link": "#"
@@ -118,12 +114,11 @@
             }
         ]
     },
-
     {
-        "displayPicture":"./assets/img/team/roshni.png",
-        "name":"Roshni Roy",
-        "description":"Community Organizer",
-        "links":[
+        "displayPicture": "./assets/img/team/roshni.png",
+        "name": "Roshni Roy",
+        "description": "Community Organizer",
+        "links": [
             {
                 "linkType": "Blog",
                 "link": "#"
@@ -142,12 +137,11 @@
             }
         ]
     },
-
     {
-        "displayPicture":"./assets/img/team/meenakshi.png",
-        "name":"Meenakshy Sunil",
-        "description":"Community Organizer",
-        "links":[
+        "displayPicture": "./assets/img/team/meenakshi.png",
+        "name": "Meenakshy Sunil",
+        "description": "Community Organizer",
+        "links": [
             {
                 "linkType": "Blog",
                 "link": "#"
@@ -166,12 +160,11 @@
             }
         ]
     },
-
     {
-        "displayPicture":"./assets/img/team/riya.png",
-        "name":"Riya P Mathew",
-        "description":"AI/ML Lead",
-        "links":[
+        "displayPicture": "./assets/img/team/riya.png",
+        "name": "Riya P Mathew",
+        "description": "AI/ML Lead",
+        "links": [
             {
                 "linkType": "Blog",
                 "link": "#"
@@ -190,12 +183,11 @@
             }
         ]
     },
-
     {
-        "displayPicture":"./assets/img/team/Don.PNG",
-        "name":"Don Kora Jacob",
-        "description":"Android  Lead",
-        "links":[
+        "displayPicture": "./assets/img/team/Don.PNG",
+        "name": "Don Kora Jacob",
+        "description": "Android  Lead",
+        "links": [
             {
                 "linkType": "Blog",
                 "link": "https://don-k-jacob.github.io/don_k_jacob.github.io/#"
@@ -214,12 +206,11 @@
             }
         ]
     },
-
     {
-        "displayPicture":"./assets/img/team/Shahan.PNG",
-        "name":"Mohammed Shahan",
-        "description":"Design Lead",
-        "links":[
+        "displayPicture": "./assets/img/team/Shahan.PNG",
+        "name": "Mohammed Shahan",
+        "description": "Design Lead",
+        "links": [
             {
                 "linkType": "Blog",
                 "link": "#"
@@ -238,12 +229,11 @@
             }
         ]
     },
-   
     {
-        "displayPicture":"./assets/img/team/kevin.png",
-        "name":"Kevin Jacob",
-        "description":" Web Tech Lead",
-        "links":[
+        "displayPicture": "./assets/img/team/kevin.png",
+        "name": "Kevin Jacob",
+        "description": " Web Tech Lead",
+        "links": [
             {
                 "linkType": "Blog",
                 "link": "#"
@@ -262,13 +252,11 @@
             }
         ]
     },
-
-
     {
-        "displayPicture":"./assets/img/team/meenakshy.png",
-        "name":"B S Meenakshy",
-        "description":"Social Media Manager",
-        "links":[
+        "displayPicture": "./assets/img/team/meenakshy.png",
+        "name": "B S Meenakshy",
+        "description": "Social Media Manager",
+        "links": [
             {
                 "linkType": "Blog",
                 "link": "#"
@@ -287,12 +275,11 @@
             }
         ]
     },
-
     {
-        "displayPicture":"./assets/img/team/sanna.png",
-        "name":"Sanna Pramod",
-        "description":"Social Media Manager",
-        "links":[
+        "displayPicture": "./assets/img/team/sanna.png",
+        "name": "Sanna Pramod",
+        "description": "Social Media Manager",
+        "links": [
             {
                 "linkType": "Blog",
                 "link": "#"
@@ -307,16 +294,15 @@
             },
             {
                 "linkType": "LinkedIn",
-                "link": "#"
+                "link": "https://www.linkedin.com/in/sanna-pramod-2565b7187/"
             }
         ]
     },
-    
-     {
-        "displayPicture":"./assets/img/team/salman.png",
-        "name":"Salman Faariz",
-        "description":"UI/UX Designer",
-        "links":[
+    {
+        "displayPicture": "./assets/img/team/salman.png",
+        "name": "Salman Faariz",
+        "description": "UI/UX Designer",
+        "links": [
             {
                 "linkType": "Blog",
                 "link": "#"
@@ -335,12 +321,11 @@
             }
         ]
     },
-
     {
-        "displayPicture":"./assets/img/team/Venkitesh.PNG",
-        "name":"Venkitesh S. Anand",
-        "description":"App Developer",
-        "links":[
+        "displayPicture": "./assets/img/team/Venkitesh.PNG",
+        "name": "Venkitesh S. Anand",
+        "description": "App Developer",
+        "links": [
             {
                 "linkType": "Blog",
                 "link": "#"
@@ -359,12 +344,11 @@
             }
         ]
     },
-    
     {
-        "displayPicture":"./assets/img/team/amal.png",
-        "name":"Amal Joe R S",
-        "description":"App Developer",
-        "links":[
+        "displayPicture": "./assets/img/team/amal.png",
+        "name": "Amal Joe R S",
+        "description": "App Developer",
+        "links": [
             {
                 "linkType": "Blog",
                 "link": "#"
@@ -383,12 +367,11 @@
             }
         ]
     },
-    
     {
-        "displayPicture":"./assets/img/team/navaneeth.png",
-        "name":"Navaneeth Venu",
-        "description":"Graphic Designer",
-        "links":[
+        "displayPicture": "./assets/img/team/navaneeth.png",
+        "name": "Navaneeth Venu",
+        "description": "Graphic Designer",
+        "links": [
             {
                 "linkType": "Blog",
                 "link": "#"
@@ -407,12 +390,11 @@
             }
         ]
     },
-    
     {
-        "displayPicture":"./assets/img/team/govind.png",
-        "name":"Govind B Chandran",
-        "description":"Web Developer",
-        "links":[
+        "displayPicture": "./assets/img/team/govind.png",
+        "name": "Govind B Chandran",
+        "description": "Web Developer",
+        "links": [
             {
                 "linkType": "Blog",
                 "link": "#"
@@ -430,5 +412,5 @@
                 "link": "https://www.linkedin.com/in/govind-chandran-46821a193/"
             }
         ]
-    }  
+    }
 ]

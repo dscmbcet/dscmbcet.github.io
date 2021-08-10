@@ -11,7 +11,7 @@
     <link rel="icon" href="favicon.png">
     <link rel="manifest" href="/manifest.json">
     <title>
-        Team | DSC MBCET
+        Team | GDSC MBCET
     </title>
     <!--     Fonts and icons     -->
     <link rel="stylesheet" type="text/css"
@@ -62,7 +62,7 @@
         id="sectionsNav">
         <div class="container">
             <div class="navbar-translate">
-                <a class="navbar-brand" href="/"><span id="gdg-logo"><img src="assets/img/kit/dscmbcet.png"
+                <a class="navbar-brand" href="/"><span id="gdg-logo"><img src="assets/img/kit/gdsc_logo.svg"
                             style="max-height: 90%;" /> </a>
                 <button style="color:rgb(120,120,120)" class="navbar-toggler" type="button" data-toggle="collapse"
                     aria-expanded="false" aria-label="Toggle navigation">
@@ -74,25 +74,20 @@
             <div class="collapse navbar-collapse">
                 <ul class="navbar-nav ml-auto">
                     <li class="dropdown nav-item">
-                        <a href="/index" data-page="index" class="nav-link">
+                        <a href="./index.html" data-page="index" class="nav-link">
                             <span><b>Home</b></span>
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a href="/events" data-page="events" class="nav-link">
+                        <a href="./events.html" data-page="events" class="nav-link">
                             <span><b id="header_text">Events</b></span>
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a href="/resources" data-page="resources" class="nav-link">
+                        <a href="./resources.html" data-page="resources" class="nav-link">
                             <span><b id="header_text">Resources</b></span>
                         </a>
                     </li>
-                    <!--<li class="nav-item">
-                            <a href="/projects" data-page="projects" class="nav-link">
-                                <span><b id="header_text">Projects</b></span>
-                            </a>
-                        </li>-->
                     <li class="nav-item">
                         <a href="#" data-page="team" class="nav-link">
                             <span><b id="header_text">Team</b></span>
@@ -103,16 +98,6 @@
                             <span><b id="header_text">Blog</b></span>
                         </a>
                     </li>
-                    <!-- <li class="nav-item">
-                        <a class="nav-link">
-                             <span ><b id="header_text">Blog</b></span>
-                        </a>
-                    </li> -->
-                    <!--  <li class="nav-item">
-                        <a href="/about" data-page="about" class="nav-link">
-                             <span ><b id="header_text">About</b></span>
-                        </a>
-                    </li> -->
                     <li class="nav-item">
                         <a target="blank" class="nav-link"
                             href="https://dsc.community.dev/mar-baselios-college-of-engineering-technology/">
@@ -252,7 +237,9 @@
         if ('serviceWorker' in navigator) {
             navigator.serviceWorker
                 .register('/sw.js')
-                .then(function () { console.log("Service Worker Registered"); });
+                .then(function () {
+                    console.log("Service Worker Registered");
+                });
         }
     </script>
     <!--   Core JS Files   -->
