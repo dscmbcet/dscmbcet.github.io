@@ -5,43 +5,50 @@
         "description": "Faculty in Charge",
         "links": [
             {
-                "linkType": "Blog",
-                "link": "#"
-            },
-            {
-                "linkType": "Twitter",
-                "link": "#"
+                "linkType": "Website",
+                "link": "https://mbcet.ac.in/faculty/mr-jinu-baby/"
             },
             {
                 "linkType": "Facebook",
                 "link": "https://www.facebook.com/jinus.bj"
-            },
+            }
+        ]
+    },
+    {
+        "displayPicture": "./assets/img/team/riya.png",
+        "name": "Riya P Mathew",
+        "description": "Community Lead",
+        "links": [
             {
                 "linkType": "LinkedIn",
-                "link": "#"
+                "link": "http://www.linkedin.com/in/riya-p-mathew-3ab88b1a0"
+            },
+            {
+                "linkType": "Github",
+                "link": "https://github.com/RiyaMathew-11"
             }
         ]
     },
     {
         "displayPicture": "./assets/img/team/Advaith.png",
         "name": "Advaith U",
-        "description": "Community Lead",
+        "description": "Community Mentor",
         "links": [
             {
-                "linkType": "Blog",
+                "linkType": "Website",
                 "link": "https://medium.com/@advaithunni2000"
+            },
+            {
+                "linkType": "LinkedIn",
+                "link": "https://www.linkedin.com/in/advaithu/"
             },
             {
                 "linkType": "Twitter",
                 "link": "https://twitter.com/advaith_unni"
             },
             {
-                "linkType": "Facebook",
-                "link": "#"
-            },
-            {
-                "linkType": "LinkedIn",
-                "link": "https://www.linkedin.com/in/advaithu/"
+                "linkType": "Github",
+                "link": "https://github.com/advaith-unnikrishnan"
             }
         ]
     },
@@ -51,270 +58,47 @@
         "description": "Community Mentor",
         "links": [
             {
-                "linkType": "Blog",
+                "linkType": "Website",
                 "link": "https://medium.com/@aravindvenugopal02"
+            },
+            {
+                "linkType": "LinkedIn",
+                "link": "https://www.linkedin.com/in/aravind1444/"
             },
             {
                 "linkType": "Twitter",
                 "link": "https://twitter.com/AravindV1444"
             },
             {
-                "linkType": "Facebook",
-                "link": "https://www.facebook.com/aravind.venugopal.03"
-            },
-            {
-                "linkType": "LinkedIn",
-                "link": "https://www.linkedin.com/in/aravind1444/"
-            }
-        ]
-    },
-    {
-        "displayPicture": "./assets/img/team/kesia.png",
-        "name": "Kesia Mary Joies",
-        "description": "Community Organizer",
-        "links": [
-            {
-                "linkType": "Blog",
-                "link": "#"
-            },
-            {
-                "linkType": "Twitter",
-                "link": "#"
-            },
-            {
-                "linkType": "Facebook",
-                "link": "#"
-            },
-            {
-                "linkType": "LinkedIn",
-                "link": "https://www.linkedin.com/in/kesia-joies/"
+                "linkType": "Github",
+                "link": "https://github.com/Aravind1444"
             }
         ]
     },
     {
         "displayPicture": "./assets/img/team/aswin.png",
         "name": "M Aswin Kishore",
-        "description": "Community Organizer",
+        "description": "Project Lead",
         "links": [
             {
-                "linkType": "Blog",
-                "link": "#"
-            },
-            {
-                "linkType": "Twitter",
-                "link": "#"
-            },
-            {
-                "linkType": "Facebook",
-                "link": "#"
+                "linkType": "Website",
+                "link": "https://mak626.github.io"
             },
             {
                 "linkType": "LinkedIn",
                 "link": "https://www.linkedin.com/in/maswinkishore/"
-            }
-        ]
-    },
-    {
-        "displayPicture": "./assets/img/team/roshni.png",
-        "name": "Roshni Roy",
-        "description": "Community Organizer",
-        "links": [
-            {
-                "linkType": "Blog",
-                "link": "#"
             },
             {
-                "linkType": "Twitter",
-                "link": "#"
-            },
-            {
-                "linkType": "Facebook",
-                "link": "#"
-            },
-            {
-                "linkType": "LinkedIn",
-                "link": "https://www.linkedin.com/in/roshni-roy-7291a21b5"
-            }
-        ]
-    },
-    {
-        "displayPicture": "./assets/img/team/meenakshi.png",
-        "name": "Meenakshy Sunil",
-        "description": "Community Organizer",
-        "links": [
-            {
-                "linkType": "Blog",
-                "link": "#"
-            },
-            {
-                "linkType": "Twitter",
-                "link": "#"
-            },
-            {
-                "linkType": "Facebook",
-                "link": "#"
-            },
-            {
-                "linkType": "LinkedIn",
-                "link": "https://www.linkedin.com/in/meenakshy-sunil-7bb3b41b4/"
-            }
-        ]
-    },
-    {
-        "displayPicture": "./assets/img/team/riya.png",
-        "name": "Riya P Mathew",
-        "description": "AI/ML Lead",
-        "links": [
-            {
-                "linkType": "Blog",
-                "link": "#"
-            },
-            {
-                "linkType": "Twitter",
-                "link": "#"
-            },
-            {
-                "linkType": "Facebook",
-                "link": "#"
-            },
-            {
-                "linkType": "LinkedIn",
-                "link": "http://www.linkedin.com/in/riya-p-mathew-3ab88b1a0"
-            }
-        ]
-    },
-    {
-        "displayPicture": "./assets/img/team/Don.PNG",
-        "name": "Don Kora Jacob",
-        "description": "Android  Lead",
-        "links": [
-            {
-                "linkType": "Blog",
-                "link": "https://don-k-jacob.github.io/don_k_jacob.github.io/#"
-            },
-            {
-                "linkType": "Twitter",
-                "link": "#"
-            },
-            {
-                "linkType": "Facebook",
-                "link": "https://m.facebook.com/don.k.1004?ref=bookmarks"
-            },
-            {
-                "linkType": "LinkedIn",
-                "link": "https://www.linkedin.com/in/don-kora-jacob-70519a178"
-            }
-        ]
-    },
-    {
-        "displayPicture": "./assets/img/team/Shahan.PNG",
-        "name": "Mohammed Shahan",
-        "description": "Design Lead",
-        "links": [
-            {
-                "linkType": "Blog",
-                "link": "#"
-            },
-            {
-                "linkType": "Twitter",
-                "link": "#"
-            },
-            {
-                "linkType": "Facebook",
-                "link": "#"
-            },
-            {
-                "linkType": "LinkedIn",
-                "link": "https://www.linkedin.com/in/mohammed-shahan-b17b57150"
-            }
-        ]
-    },
-    {
-        "displayPicture": "./assets/img/team/kevin.png",
-        "name": "Kevin Jacob",
-        "description": " Web Tech Lead",
-        "links": [
-            {
-                "linkType": "Blog",
-                "link": "#"
-            },
-            {
-                "linkType": "Twitter",
-                "link": "#"
-            },
-            {
-                "linkType": "Facebook",
-                "link": "#"
-            },
-            {
-                "linkType": "LinkedIn",
-                "link": "https://www.linkedin.com/in/kevinjacob2001/"
-            }
-        ]
-    },
-    {
-        "displayPicture": "./assets/img/team/meenakshy.png",
-        "name": "B S Meenakshy",
-        "description": "Social Media Manager",
-        "links": [
-            {
-                "linkType": "Blog",
-                "link": "#"
-            },
-            {
-                "linkType": "Twitter",
-                "link": "#"
-            },
-            {
-                "linkType": "Facebook",
-                "link": "https://www.facebook.com/MeenakshyOfficial"
-            },
-            {
-                "linkType": "LinkedIn",
-                "link": "https://www.linkedin.com/in/b-s-meenakshy-0010721a0"
-            }
-        ]
-    },
-    {
-        "displayPicture": "./assets/img/team/sanna.png",
-        "name": "Sanna Pramod",
-        "description": "Social Media Manager",
-        "links": [
-            {
-                "linkType": "Blog",
-                "link": "#"
-            },
-            {
-                "linkType": "Twitter",
-                "link": "#"
-            },
-            {
-                "linkType": "Facebook",
-                "link": "#"
-            },
-            {
-                "linkType": "LinkedIn",
-                "link": "https://www.linkedin.com/in/sanna-pramod-2565b7187/"
+                "linkType": "Github",
+                "link": "https://github.com/mak626"
             }
         ]
     },
     {
         "displayPicture": "./assets/img/team/salman.png",
         "name": "Salman Faariz",
-        "description": "UI/UX Designer",
+        "description": "Management Lead",
         "links": [
-            {
-                "linkType": "Blog",
-                "link": "#"
-            },
-            {
-                "linkType": "Twitter",
-                "link": "#"
-            },
-            {
-                "linkType": "Facebook",
-                "link": "#"
-            },
             {
                 "linkType": "LinkedIn",
                 "link": "https://www.linkedin.com/in/salman-faariz-37b892194"
@@ -322,94 +106,70 @@
         ]
     },
     {
-        "displayPicture": "./assets/img/team/Venkitesh.PNG",
-        "name": "Venkitesh S. Anand",
-        "description": "App Developer",
+        "displayPicture": "./assets/img/team/kevin.png",
+        "name": "Kevin Jacob",
+        "description": " Web Lead",
         "links": [
             {
-                "linkType": "Blog",
-                "link": "#"
-            },
-            {
-                "linkType": "Twitter",
-                "link": "#"
-            },
-            {
-                "linkType": "Facebook",
-                "link": "#"
+                "linkType": "Website",
+                "link": "https://kevinjacob.in"
             },
             {
                 "linkType": "LinkedIn",
-                "link": "#"
+                "link": "https://www.linkedin.com/in/kevinjacob2001/"
+            },
+            {
+                "linkType": "Github",
+                "link": "https://github.com/kevinjacob2001"
             }
         ]
     },
     {
         "displayPicture": "./assets/img/team/amal.png",
         "name": "Amal Joe R S",
-        "description": "App Developer",
+        "description": "App Lead",
         "links": [
-            {
-                "linkType": "Blog",
-                "link": "#"
-            },
-            {
-                "linkType": "Twitter",
-                "link": "#"
-            },
-            {
-                "linkType": "Facebook",
-                "link": "#"
-            },
             {
                 "linkType": "LinkedIn",
                 "link": "https://www.linkedin.com/in/amal-joe-r-s-16a50918b"
+            },
+            {
+                "linkType": "Github",
+                "link": "https://github.com/amaljoe"
             }
         ]
     },
     {
         "displayPicture": "./assets/img/team/navaneeth.png",
         "name": "Navaneeth Venu",
-        "description": "Graphic Designer",
+        "description": "Creative Lead",
         "links": [
             {
-                "linkType": "Blog",
-                "link": "#"
-            },
-            {
-                "linkType": "Twitter",
-                "link": "#"
-            },
-            {
-                "linkType": "Facebook",
-                "link": "#"
+                "linkType": "Website",
+                "link": " https://navaneethvenu.github.io/"
             },
             {
                 "linkType": "LinkedIn",
                 "link": "https://www.linkedin.com/in/navaneeth-venu-3481a31b5/"
+            },
+            {
+                "linkType": "Github",
+                "link": "https://github.com/navaneethvenu"
             }
         ]
     },
     {
-        "displayPicture": "./assets/img/team/govind.png",
-        "name": "Govind B Chandran",
-        "description": "Web Developer",
+        "displayPicture": "./assets/img/team/sanna.png",
+        "name": "Sanna Pramod",
+        "description": "Social Media Head",
         "links": [
             {
-                "linkType": "Blog",
-                "link": "#"
-            },
-            {
-                "linkType": "Twitter",
-                "link": "#"
-            },
-            {
-                "linkType": "Facebook",
-                "link": "#"
-            },
-            {
                 "linkType": "LinkedIn",
-                "link": "https://www.linkedin.com/in/govind-chandran-46821a193/"
+                "link": "https://www.linkedin.com/in/sanna-pramod-2565b7187/"
+            },
+            {
+                "linkType": "Github",
+                "link": "https://github.com/SannaPramod"
             }
         ]
     }

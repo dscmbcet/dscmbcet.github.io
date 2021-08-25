@@ -249,9 +249,6 @@
     <!-- Material Kit Core initialisations of plugins and Bootstrap Material Design Library -->
     <script src="assets/js/material-kit.js?v=2.0.2"></script>
     <script src="assets/assets-custom/js/material-kit-demo.js"></script>
-    <!-- <script src="assets/assets-custom/js/GridHorizontal.js"></script> -->
-    <!-- <script src="https://unpkg.com/packery@2/dist/packery.pkgd.min.js"></script> -->
-    <!-- <script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script> -->
     <script src="assets/assets-custom/main.js"></script>
 
     <script src="assets/assets-custom/index.js"></script>
@@ -272,7 +269,7 @@
                             link.link +
                             '" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>';
                     }
-                    if (link.linkType == 'Blog') {
+                    if (link.linkType == 'Website') {
                         result += '<li style="color:rgb(0,101,202);"><a id="social_link1" href="' +
                             link.link +
                             '" target="_blank"><i class="fa fa-link" aria-hidden="true"></i></a></li>';
@@ -281,6 +278,11 @@
                         result += '<li style="color:rgb(0,101,202);"><a id="social_link1" href="' +
                             link.link +
                             '" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>';
+                    }
+                      if (link.linkType == 'Github') {
+                        result += '<li style="color:rgb(0,101,202);"><a id="social_link1" href="' +
+                            link.link +
+                            '" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a></li>';
                     }
                 });
                 return result;
