@@ -109,14 +109,21 @@
             {
                 "linkType": "LinkedIn",
                 "link": "https://www.linkedin.com/in/bengeorgenetto/"
+            }
+        ]
+    },
+    {
+        "displayPicture": "./assets/img/team/Amal Joe R S.png",
+        "name": "Amal Joe R S",
+        "description": "App Lead",
+        "links": [
+            {
+                "linkType": "LinkedIn",
+                "link": "https://www.linkedin.com/in/amal-joe-r-s-16a50918b"
             },
             {
                 "linkType": "Github",
-                "link": ""
-            },
-            {
-                "linkType": "Twitter",
-                "link": ""
+                "link": "https://github.com/amaljoe"
             }
         ]
     },
@@ -140,17 +147,21 @@
         ]
     },
     {
-        "displayPicture": "./assets/img/team/Amal Joe R S.png",
-        "name": "Amal Joe R S",
-        "description": "App Lead",
+        "displayPicture": "./assets/img/team/Yoosuf Shaheed.png",
+        "name": "Yoosuf Shaheed",
+        "description": "Web Developer",
         "links": [
             {
                 "linkType": "LinkedIn",
-                "link": "https://www.linkedin.com/in/amal-joe-r-s-16a50918b"
+                "link": "https://www.linkedin.com/in/itsyoosuf/"
             },
             {
                 "linkType": "Github",
-                "link": "https://github.com/amaljoe"
+                "link": "https://github.com/ItsYoosuf"
+            },
+            {
+                "linkType": "StackOverFlow",
+                "link": "https://stackoverflow.com/users/15434910/yoosuf-mohammed-shaheed"
             }
         ]
     },
@@ -174,25 +185,6 @@
         ]
     },
     {
-        "displayPicture": "./assets/img/team/Yoosuf Shaheed.png",
-        "name": "Yoosuf Shaheed",
-        "description": "Web Developer",
-        "links": [
-            {
-                "linkType": "LinkedIn",
-                "link": "https://www.linkedin.com/in/itsyoosuf/"
-            },
-            {
-                "linkType": "Github",
-                "link": "https://github.com/ItsYoosuf"
-            },
-            {
-                "linkType": "StackOverFlow",
-                "link": "https://stackoverflow.com/users/15434910/yoosuf-mohammed-shaheed"
-            }
-        ]
-    },
-    {
         "displayPicture": "./assets/img/team/Litto K Lal.png",
         "name": "Litto K Lal",
         "description": "App Developer",
@@ -200,14 +192,6 @@
             {
                 "linkType": "LinkedIn",
                 "link": "www.linkedin.com/in/litto"
-            },
-            {
-                "linkType": "Github",
-                "link": ""
-            },
-            {
-                "linkType": "Twitter",
-                "link": ""
             }
         ]
     },
@@ -231,21 +215,13 @@
         ]
     },
     {
-        "displayPicture": "./assets/img/team/R Sreelekshmi.png",
-        "name": "R Sreelekshmi",
-        "description": "Graphic Designer",
+        "displayPicture": "./assets/img/team/Varsha Renjith.png",
+        "name": "Varsha Renjith",
+        "description": "UI/UX Designer",
         "links": [
             {
                 "linkType": "LinkedIn",
-                "link": "https://www.linkedin.com/in/r-sreelekshmi/"
-            },
-            {
-                "linkType": "Github",
-                "link": "https://github.com/Reez07"
-            },
-            {
-                "linkType": "Twitter",
-                "link": ""
+                "link": "www.linkedin.com/in/varsha-renjith"
             }
         ]
     },
@@ -257,33 +233,6 @@
             {
                 "linkType": "LinkedIn",
                 "link": "https://www.linkedin.com/in/meenakshy-panicker-8b2773200"
-            },
-            {
-                "linkType": "Github",
-                "link": ""
-            },
-            {
-                "linkType": "Twitter",
-                "link": ""
-            }
-        ]
-    },
-    {
-        "displayPicture": "./assets/img/team/Varsha Renjith.png",
-        "name": "Varsha Renjith",
-        "description": "UI/UX Designer",
-        "links": [
-            {
-                "linkType": "LinkedIn",
-                "link": "www.linkedin.com/in/varsha-renjith"
-            },
-            {
-                "linkType": "Github",
-                "link": ""
-            },
-            {
-                "linkType": "Twitter",
-                "link": ""
             }
         ]
     },
@@ -303,6 +252,21 @@
             {
                 "linkType": "Behance",
                 "link": "https://www.behance.net/mithunks"
+            }
+        ]
+    },
+    {
+        "displayPicture": "./assets/img/team/R Sreelekshmi.png",
+        "name": "R Sreelekshmi",
+        "description": "Graphic Designer",
+        "links": [
+            {
+                "linkType": "LinkedIn",
+                "link": "https://www.linkedin.com/in/r-sreelekshmi/"
+            },
+            {
+                "linkType": "Github",
+                "link": "https://github.com/Reez07"
             }
         ]
     },
