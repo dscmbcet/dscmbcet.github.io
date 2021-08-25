@@ -26,6 +26,10 @@
             {
                 "linkType": "Github",
                 "link": "https://github.com/RiyaMathew-11"
+            },
+            {
+                "linkType": "Twitter",
+                "link": "https://twitter.com/RiyaPMathew2"
             }
         ]
     },
@@ -145,11 +149,11 @@
                 "link": "https://www.linkedin.com/in/kevinjacob2001/"
             },
             {
-                "linkType": "Twitter",
+                "linkType": "Github",
                 "link": "https://github.com/kevinjacob2001"
             },
             {
-                "linkType": "Github",
+                "linkType": "Twitter",
                 "link": "https://github.com/kevinjacob2001"
             }
         ]
@@ -217,12 +221,12 @@
                 "link": "https://www.linkedin.com/in/navaneeth-venu-3481a31b5/"
             },
             {
-                "linkType": "Twitter",
-                "link": "https://twitter.com/navaneethvenu"
-            },
-            {
                 "linkType": "Github",
                 "link": "https://github.com/navaneethvenu"
+            },
+            {
+                "linkType": "Twitter",
+                "link": "https://twitter.com/navaneethvenu"
             }
         ]
     },
@@ -292,12 +296,12 @@
                 "link": "https://www.linkedin.com/in/sanna-pramod-2565b7187/"
             },
             {
-                "linkType": "Twitter",
-                "link": "https://twitter.com/SannaPramod"
-            },
-            {
                 "linkType": "Github",
                 "link": "https://github.com/SannaPramod"
+            },
+            {
+                "linkType": "Twitter",
+                "link": "https://twitter.com/SannaPramod"
             }
         ]
     },
