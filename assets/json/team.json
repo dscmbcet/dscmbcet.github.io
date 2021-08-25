@@ -70,12 +70,12 @@
                 "link": "https://www.linkedin.com/in/maswinkishore/"
             },
             {
-                "linkType": "Twitter",
-                "link": "https://twitter.com/maswinkishore"
-            },
-            {
                 "linkType": "Github",
                 "link": "https://github.com/mak626"
+            },
+            {
+                "linkType": "Twitter",
+                "link": "https://twitter.com/maswinkishore"
             }
         ]
     },
