@@ -66,6 +66,10 @@
                 "link": "https://www.linkedin.com/in/maswinkishore/"
             },
             {
+                "linkType": "Twitter",
+                "link": "https://twitter.com/maswinkishore"
+            },
+            {
                 "linkType": "Github",
                 "link": "https://github.com/mak626"
             }
@@ -141,6 +145,10 @@
                 "link": "https://www.linkedin.com/in/kevinjacob2001/"
             },
             {
+                "linkType": "Twitter",
+                "link": "https://github.com/kevinjacob2001"
+            },
+            {
                 "linkType": "Github",
                 "link": "https://github.com/kevinjacob2001"
             }
@@ -207,6 +215,10 @@
             {
                 "linkType": "LinkedIn",
                 "link": "https://www.linkedin.com/in/navaneeth-venu-3481a31b5/"
+            },
+            {
+                "linkType": "Twitter",
+                "link": "https://twitter.com/navaneethvenu"
             },
             {
                 "linkType": "Github",
@@ -278,6 +290,10 @@
             {
                 "linkType": "LinkedIn",
                 "link": "https://www.linkedin.com/in/sanna-pramod-2565b7187/"
+            },
+            {
+                "linkType": "Twitter",
+                "link": "https://twitter.com/SannaPramod"
             },
             {
                 "linkType": "Github",
