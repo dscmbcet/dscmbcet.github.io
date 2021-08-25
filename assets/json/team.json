@@ -83,74 +83,6 @@
         ]
     },
     {
-        "displayPicture": "./assets/img/team/Kevin Jacob.png",
-        "name": "Kevin Jacob",
-        "description": " Web Lead",
-        "links": [
-            {
-                "linkType": "Website",
-                "link": "https://kevinjacob.in"
-            },
-            {
-                "linkType": "LinkedIn",
-                "link": "https://www.linkedin.com/in/kevinjacob2001/"
-            },
-            {
-                "linkType": "Github",
-                "link": "https://github.com/kevinjacob2001"
-            }
-        ]
-    },
-    {
-        "displayPicture": "./assets/img/team/Amal Joe R S.png",
-        "name": "Amal Joe R S",
-        "description": "App Lead",
-        "links": [
-            {
-                "linkType": "LinkedIn",
-                "link": "https://www.linkedin.com/in/amal-joe-r-s-16a50918b"
-            },
-            {
-                "linkType": "Github",
-                "link": "https://github.com/amaljoe"
-            }
-        ]
-    },
-    {
-        "displayPicture": "./assets/img/team/Navaneeth Venu.png",
-        "name": "Navaneeth Venu",
-        "description": "Creative Lead",
-        "links": [
-            {
-                "linkType": "Website",
-                "link": " https://navaneethvenu.github.io/"
-            },
-            {
-                "linkType": "LinkedIn",
-                "link": "https://www.linkedin.com/in/navaneeth-venu-3481a31b5/"
-            },
-            {
-                "linkType": "Github",
-                "link": "https://github.com/navaneethvenu"
-            }
-        ]
-    },
-    {
-        "displayPicture": "./assets/img/team/Sanna Pramod.png",
-        "name": "Sanna Pramod",
-        "description": "Social Media Head",
-        "links": [
-            {
-                "linkType": "LinkedIn",
-                "link": "https://www.linkedin.com/in/sanna-pramod-2565b7187/"
-            },
-            {
-                "linkType": "Github",
-                "link": "https://github.com/SannaPramod"
-            }
-        ]
-    },
-    {
         "displayPicture": "./assets/img/team/Adityan Babu.png",
         "name": "Adityan Babu",
         "description": "Community Manager",
@@ -185,6 +117,40 @@
             {
                 "linkType": "Twitter",
                 "link": ""
+            }
+        ]
+    },
+    {
+        "displayPicture": "./assets/img/team/Kevin Jacob.png",
+        "name": "Kevin Jacob",
+        "description": " Web Lead",
+        "links": [
+            {
+                "linkType": "Website",
+                "link": "https://kevinjacob.in"
+            },
+            {
+                "linkType": "LinkedIn",
+                "link": "https://www.linkedin.com/in/kevinjacob2001/"
+            },
+            {
+                "linkType": "Github",
+                "link": "https://github.com/kevinjacob2001"
+            }
+        ]
+    },
+    {
+        "displayPicture": "./assets/img/team/Amal Joe R S.png",
+        "name": "Amal Joe R S",
+        "description": "App Lead",
+        "links": [
+            {
+                "linkType": "LinkedIn",
+                "link": "https://www.linkedin.com/in/amal-joe-r-s-16a50918b"
+            },
+            {
+                "linkType": "Github",
+                "link": "https://github.com/amaljoe"
             }
         ]
     },
@@ -242,6 +208,25 @@
             {
                 "linkType": "Twitter",
                 "link": ""
+            }
+        ]
+    },
+    {
+        "displayPicture": "./assets/img/team/Navaneeth Venu.png",
+        "name": "Navaneeth Venu",
+        "description": "Creative Lead",
+        "links": [
+            {
+                "linkType": "Website",
+                "link": " https://navaneethvenu.github.io/"
+            },
+            {
+                "linkType": "LinkedIn",
+                "link": "https://www.linkedin.com/in/navaneeth-venu-3481a31b5/"
+            },
+            {
+                "linkType": "Github",
+                "link": "https://github.com/navaneethvenu"
             }
         ]
     },
@@ -318,6 +303,21 @@
             {
                 "linkType": "Behance",
                 "link": "https://www.behance.net/mithunks"
+            }
+        ]
+    },
+    {
+        "displayPicture": "./assets/img/team/Sanna Pramod.png",
+        "name": "Sanna Pramod",
+        "description": "Social Media Head",
+        "links": [
+            {
+                "linkType": "LinkedIn",
+                "link": "https://www.linkedin.com/in/sanna-pramod-2565b7187/"
+            },
+            {
+                "linkType": "Github",
+                "link": "https://github.com/SannaPramod"
             }
         ]
     },
