@@ -1,0 +1,256 @@
+[
+    {
+        "displayPicture": "./assets/img/team/2020-2021/Jinu.png",
+        "name": "Jinu Baby",
+        "description": "Faculty in Charge",
+        "links": [
+            {
+                "linkType": "Website",
+                "link": "https://mbcet.ac.in/faculty/mr-jinu-baby/"
+            },
+            {
+                "linkType": "Facebook",
+                "link": "https://www.facebook.com/jinus.bj"
+            }
+        ]
+    },
+    {
+        "displayPicture": "./assets/img/team/2020-2021/Advaith.png",
+        "name": "Advaith U",
+        "description": "Community Lead",
+        "links": [
+            {
+                "linkType": "Website",
+                "link": "https://medium.com/@advaithunni2000"
+            },
+            {
+                "linkType": "Twitter",
+                "link": "https://twitter.com/advaith_unni"
+            },
+            {
+                "linkType": "LinkedIn",
+                "link": "https://www.linkedin.com/in/advaithu/"
+            }
+        ]
+    },
+    {
+        "displayPicture": "./assets/img/team/2020-2021/Aravind.png",
+        "name": "Aravind Venugopal",
+        "description": "Community Mentor",
+        "links": [
+            {
+                "linkType": "Website",
+                "link": "https://medium.com/@aravindvenugopal02"
+            },
+            {
+                "linkType": "Twitter",
+                "link": "https://twitter.com/AravindV1444"
+            },
+            {
+                "linkType": "Facebook",
+                "link": "https://www.facebook.com/aravind.venugopal.03"
+            },
+            {
+                "linkType": "LinkedIn",
+                "link": "https://www.linkedin.com/in/aravind1444/"
+            }
+        ]
+    },
+    {
+        "displayPicture": "./assets/img/team/2020-2021/kesia.png",
+        "name": "Kesia Mary Joies",
+        "description": "Community Organizer",
+        "links": [
+            {
+                "linkType": "LinkedIn",
+                "link": "https://www.linkedin.com/in/kesia-joies/"
+            }
+        ]
+    },
+    {
+        "displayPicture": "./assets/img/team/2020-2021/aswin.png",
+        "name": "M Aswin Kishore",
+        "description": "Community Organizer",
+        "links": [
+            {
+                "linkType": "LinkedIn",
+                "link": "https://www.linkedin.com/in/maswinkishore/"
+            }
+        ]
+    },
+    {
+        "displayPicture": "./assets/img/team/2020-2021/roshni.png",
+        "name": "Roshni Roy",
+        "description": "Community Organizer",
+        "links": [
+            {
+                "linkType": "LinkedIn",
+                "link": "https://www.linkedin.com/in/roshni-roy-7291a21b5"
+            }
+        ]
+    },
+    {
+        "displayPicture": "./assets/img/team/2020-2021/meenakshi.png",
+        "name": "Meenakshy Sunil",
+        "description": "Community Organizer",
+        "links": [
+            {
+                "linkType": "LinkedIn",
+                "link": "https://www.linkedin.com/in/meenakshy-sunil-7bb3b41b4/"
+            }
+        ]
+    },
+    {
+        "displayPicture": "./assets/img/team/2020-2021/riya.png",
+        "name": "Riya P Mathew",
+        "description": "AI/ML Lead",
+        "links": [
+            {
+                "linkType": "LinkedIn",
+                "link": "http://www.linkedin.com/in/riya-p-mathew-3ab88b1a0"
+            }
+        ]
+    },
+    {
+        "displayPicture": "./assets/img/team/2020-2021/Don.PNG",
+        "name": "Don Kora Jacob",
+        "description": "Android  Lead",
+        "links": [
+            {
+                "linkType": "Facebook",
+                "link": "https://m.facebook.com/don.k.1004?ref=bookmarks"
+            },
+            {
+                "linkType": "LinkedIn",
+                "link": "https://www.linkedin.com/in/don-kora-jacob-70519a178"
+            }
+        ]
+    },
+    {
+        "displayPicture": "./assets/img/team/2020-2021/Shahan.PNG",
+        "name": "Mohammed Shahan",
+        "description": "Design Lead",
+        "links": [
+            {
+                "linkType": "LinkedIn",
+                "link": "https://www.linkedin.com/in/mohammed-shahan-b17b57150"
+            }
+        ]
+    },
+    {
+        "displayPicture": "./assets/img/team/2020-2021/kevin.png",
+        "name": "Kevin Jacob",
+        "description": " Web Tech Lead",
+        "links": [
+            {
+                "linkType": "LinkedIn",
+                "link": "https://www.linkedin.com/in/kevinjacob2001/"
+            }
+        ]
+    },
+    {
+        "displayPicture": "./assets/img/team/2020-2021/meenakshy.png",
+        "name": "B S Meenakshy",
+        "description": "Social Media Manager",
+        "links": [
+            {
+                "linkType": "Facebook",
+                "link": "https://www.facebook.com/MeenakshyOfficial"
+            },
+            {
+                "linkType": "LinkedIn",
+                "link": "https://www.linkedin.com/in/b-s-meenakshy-0010721a0"
+            }
+        ]
+    },
+    {
+        "displayPicture": "./assets/img/team/2020-2021/sanna.png",
+        "name": "Sanna Pramod",
+        "description": "Social Media Manager",
+        "links": [
+            {
+                "linkType": "Website",
+                "link": "#"
+            },
+            {
+                "linkType": "Twitter",
+                "link": "#"
+            },
+            {
+                "linkType": "Facebook",
+                "link": "#"
+            },
+            {
+                "linkType": "LinkedIn",
+                "link": "https://www.linkedin.com/in/sanna-pramod-2565b7187/"
+            }
+        ]
+    },
+    {
+        "displayPicture": "./assets/img/team/2020-2021/salman.png",
+        "name": "Salman Faariz",
+        "description": "UI/UX Designer",
+        "links": [
+            {
+                "linkType": "LinkedIn",
+                "link": "https://www.linkedin.com/in/salman-faariz-37b892194"
+            }
+        ]
+    },
+    {
+        "displayPicture": "./assets/img/team/2020-2021/Venkitesh.PNG",
+        "name": "Venkitesh S. Anand",
+        "description": "App Developer",
+        "links": [
+            {
+                "linkType": "Website",
+                "link": "#"
+            },
+            {
+                "linkType": "Twitter",
+                "link": "#"
+            },
+            {
+                "linkType": "Facebook",
+                "link": "#"
+            },
+            {
+                "linkType": "LinkedIn",
+                "link": "#"
+            }
+        ]
+    },
+    {
+        "displayPicture": "./assets/img/team/2020-2021/amal.png",
+        "name": "Amal Joe R S",
+        "description": "App Developer",
+        "links": [
+            {
+                "linkType": "LinkedIn",
+                "link": "https://www.linkedin.com/in/amal-joe-r-s-16a50918b"
+            }
+        ]
+    },
+    {
+        "displayPicture": "./assets/img/team/2020-2021/navaneeth.png",
+        "name": "Navaneeth Venu",
+        "description": "Graphic Designer",
+        "links": [
+            {
+                "linkType": "LinkedIn",
+                "link": "https://www.linkedin.com/in/navaneeth-venu-3481a31b5/"
+            }
+        ]
+    },
+    {
+        "displayPicture": "./assets/img/team/2020-2021/govind.png",
+        "name": "Govind B Chandran",
+        "description": "Web Developer",
+        "links": [
+            {
+                "linkType": "LinkedIn",
+                "link": "https://www.linkedin.com/in/govind-chandran-46821a193/"
+            }
+        ]
+    }
+]
