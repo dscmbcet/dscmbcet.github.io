@@ -47,12 +47,12 @@
                 "link": "https://www.linkedin.com/in/advaithu/"
             },
             {
-                "linkType": "Twitter",
-                "link": "https://twitter.com/advaith_unni"
-            },
-            {
                 "linkType": "Github",
                 "link": "https://github.com/advaith-unnikrishnan"
+            },
+            {
+                "linkType": "Twitter",
+                "link": "https://twitter.com/advaith_unni"
             }
         ]
     },
