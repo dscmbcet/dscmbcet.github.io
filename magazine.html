@@ -34,7 +34,7 @@
         <script src="https://unpkg.com/flickity@2.0/dist/flickity.pkgd.min.js"></script>
         <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" />
         <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
-       
+
         <!-- iframe removal -->
     </head>
 
@@ -87,89 +87,79 @@
                                 <span><b id="header_text">Blog</b></span>
                             </a>
                         </li>
-                       
+
                         <li class="nav-item">
-                            <a target="blank" class="nav-link" href="https://gdsc.community.dev/mar-baselios-college-of-engineering-and-technology-thiruvananthapuram/">
-                            <button  id="magazine__btn">SIGNUP</button>
-                        </a>
-                    </li>
+                            <a
+                                target="blank"
+                                class="nav-link"
+                                href="https://gdsc.community.dev/mar-baselios-college-of-engineering-and-technology-thiruvananthapuram/"
+                            >
+                                <button id="magazine__btn">SIGNUP</button>
+                            </a>
+                        </li>
                         <li class="nav-item">
                             <a target="blank" class="nav-link" href="/magazine.html">
                                 <span class="btn" id="joinbtn"><b id="header_text">MAGAZINE</b></span>
                             </a>
                         </li>
-         
                     </ul>
                 </div>
             </div>
         </nav>
 
         <div class="magazine-container">
-           
-             <!--Added diary link here-->
-                    <iframe class="magazine" src=""></iframe>
-                  
-                
-          
-         </div>
+            <!--Added diary link here-->
+            <iframe class="magazine" src="https://online.fliphtml5.com/mnqav/kolo/"></iframe>
+        </div>
 
+        <style>
+            body {
+                background-color: #362d2d;
+                background-image: url('./Group\ 219.svg');
 
-<style>
+                background-size: cover;
+                height: 100vh;
+                width: 100vw;
+            }
+            .magazine-container {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+            .magazine {
+                border: none;
+                width: 100vw;
+                height: 90vh;
+                margin-top: 5rem;
+            }
+            #magazine__btn {
+                width: 7rem;
+                height: 2.5rem;
+                font-size: small;
+                font-weight: 900;
+                border-radius: 2px;
+                color: #536dfe;
+                border: 2px solid #536dfe;
+                background-color: white !important;
+            }
+            #magazine__btn:hover {
+                cursor: pointer;
+                box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 1px, rgba(0, 0, 0, 0.07) 0px 2px 2px, rgba(0, 0, 0, 0.07) 0px 4px 4px,
+                    rgba(0, 0, 0, 0.07) 0px 8px 8px, rgba(0, 0, 0, 0.07) 0px 16px 16px;
+            }
 
-    body{
-        background-color: #362d2d;
-        background-image: url('./Group\ 219.svg')  ; 
-       
-        background-size: cover; 
-        height:100vh;
-        width:100vw;
-      
-    }
-    .magazine-container{
+            @media only screen and (max-width: 600px) {
+                .magazine {
+                    margin-top: 7rem;
+                }
+            }
+        </style>
 
-        display: flex;
-        align-items: center;
-        justify-content: center;
-  
-    }
-    .magazine{
-        border: none;
-        width:100vw;
-        height:90vh;
-        margin-top: 5rem;
-    }
-#magazine__btn{
-    width:7rem;
-    height: 2.5rem;
-    font-size:small;
-    font-weight: 900;
-    border-radius: 2px;
-    color:#536DFE;
-  border: 2px solid #536DFE;
-    background-color: white !important;
-}
-#magazine__btn:hover{
-    cursor: pointer;
-    box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 1px, rgba(0, 0, 0, 0.07) 0px 2px 2px, rgba(0, 0, 0, 0.07) 0px 4px 4px, rgba(0, 0, 0, 0.07) 0px 8px 8px, rgba(0, 0, 0, 0.07) 0px 16px 16px;
-}
-
-@media only screen and (max-width: 600px) {
-    .magazine{
-        margin-top: 7rem;
-    }
-
-
-    }
-</style>
-
-<script>
-   if (window.matchMedia("(orientation: portrait)").matches) {
-   alert("Switch to landscape view for better viewing experience!")
-}
-
-
-</script>
-
+        <script>
+            if (window.matchMedia('(orientation: portrait)').matches) {
+                alert('Switch to landscape view for better viewing experience!');
+            }
+        </script>
 
         <!--   Core JS Files   -->
         <script src="assets/js/core/jquery.min.js"></script>
@@ -181,7 +171,5 @@
         <script src="assets/assets-custom/main.js"></script>
 
         <script src="assets/assets-custom/index.js"></script>
-
-        
     </body>
 </html>
