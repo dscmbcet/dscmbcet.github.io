@@ -54,6 +54,20 @@
         .img-fluid {
             border-radius: 5px 5px;
         }
+     #magazine__btn{
+        width:7rem;
+        height: 2.5rem;
+        font-size:small;
+        font-weight: 900;
+        border-radius: 2px;
+        color:#536DFE;
+         border: 2px solid #536DFE;
+        background-color: white !important;
+    }
+    #magazine__btn:hover{
+        cursor: pointer;
+        box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 1px, rgba(0, 0, 0, 0.07) 0px 2px 2px, rgba(0, 0, 0, 0.07) 0px 4px 4px, rgba(0, 0, 0, 0.07) 0px 8px 8px, rgba(0, 0, 0, 0.07) 0px 16px 16px;
+    }
     </style>
     <!-- iframe removal -->
 </head>
@@ -63,15 +77,22 @@
     <canvas id="canvas"></canvas>
     <!--Over-->
 
-    <nav class="navbar navbar-color-on-scroll navbar-transparent fixed-top  navbar-expand-lg " color-on-scroll="100"
-        id="sectionsNav">
+    <nav class="navbar navbar-color-on-scroll navbar-transparent fixed-top navbar-expand-lg" color-on-scroll="100" id="sectionsNav">
         <div class="container">
             <div class="navbar-translate">
-                <a class="navbar-brand" href="/"><span id="gdg-logo"><img src="assets/img/kit/gdsc_logo.svg"
-                            style="max-height: 90%;" /> </a>
-
-                <button style="color:rgb(120,120,120)" class="navbar-toggler" type="button" data-toggle="collapse"
-                    aria-expanded="false" aria-label="Toggle navigation">
+                <a class="navbar-brand" href="/">
+                    <span id="gdg-logo">
+                        <img src="assets/img/kit/gdsc_logo.svg" style="max-height: 90%" />
+                    </span>
+                </a>
+                <button
+                    style="color: rgb(120, 120, 120)"
+                    class="navbar-toggler"
+                    type="button"
+                    data-toggle="collapse"
+                    aria-expanded="false"
+                    aria-label="Toggle navigation"
+                >
                     <span class="navbar-toggler-icon"></span>
                     <span class="navbar-toggler-icon"></span>
                     <span class="navbar-toggler-icon"></span>
@@ -80,7 +101,7 @@
             <div class="collapse navbar-collapse">
                 <ul class="navbar-nav ml-auto">
                     <li class="dropdown nav-item">
-                        <a href="#" data-page="index" class="nav-link">
+                        <a href="./index.html" data-page="index" class="nav-link">
                             <span><b>Home</b></span>
                         </a>
                     </li>
@@ -94,9 +115,8 @@
                             <span><b id="header_text">Resources</b></span>
                         </a>
                     </li>
-
                     <li class="nav-item">
-                        <a href="./team.html" data-page="team" class="nav-link">
+                        <a href="/team.html" data-page="team" class="nav-link">
                             <span><b id="header_text">Team</b></span>
                         </a>
                     </li>
@@ -105,12 +125,18 @@
                             <span><b id="header_text">Blog</b></span>
                         </a>
                     </li>
+                   
                     <li class="nav-item">
-                        <a target="blank" class="nav-link"
-                            href="https://dsc.community.dev/mar-baselios-college-of-engineering-technology/">
-                            <span class="btn" id="joinbtn"><b id="header_text">Sign Up</b></span>
+                        <a target="blank" class="nav-link" href="https://gdsc.community.dev/mar-baselios-college-of-engineering-and-technology-thiruvananthapuram/">
+                        <button  id="magazine__btn">SIGNUP</button>
+                    </a>
+                </li>
+                    <li class="nav-item">
+                        <a target="blank" class="nav-link" href="/magazine.html">
+                            <span class="btn" id="joinbtn"><b id="header_text">MAGAZINE</b></span>
                         </a>
                     </li>
+     
                 </ul>
             </div>
         </div>
