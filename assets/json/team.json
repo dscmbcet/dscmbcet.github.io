@@ -1,6 +1,6 @@
 [
     {
-        "displayPicture": "./assets/img/team/Jinu Baby.png",
+        "displayPicture": "./assets/img/team/Jinu.png",
         "name": "Jinu Baby",
         "description": "Faculty in Charge",
         "links": [
@@ -15,9 +15,21 @@
         ]
     },
     {
-        "displayPicture": "./assets/img/team/Riya P Mathew.png",
-        "name": "Riya P Mathew",
+        "displayPicture": "./assets/img/team/varsha.png",
+        "name": "Varsha Renjith",
         "description": "GDSC Lead",
+        "links": [
+            {
+                "linkType": "LinkedIn",
+                "link": "https://www.linkedin.com/in/varsha-renjith"
+            }
+            
+        ]
+    },
+    {
+        "displayPicture": "./assets/img/team/riya.png",
+        "name": "Riya P Mathew",
+        "description": "Community Mentor",
         "links": [
             {
                 "linkType": "LinkedIn",
@@ -34,134 +46,72 @@
         ]
     },
     {
-        "displayPicture": "./assets/img/team/Advaith U.png",
-        "name": "Advaith U",
-        "description": "Community Mentor",
+        "displayPicture": "./assets/img/team/ben.png",
+        "name": "Ben George Netto",
+        "description": "Operations Lead",
         "links": [
             {
                 "linkType": "Website",
-                "link": "https://advaithunnikrishnan.me/"
+                "link": "https://bio.link/bengnetto"
             },
             {
                 "linkType": "LinkedIn",
-                "link": "https://www.linkedin.com/in/advaithu/"
+                "link": "https://www.linkedin.com/in/bengeorgenetto/"
             },
             {
                 "linkType": "Github",
-                "link": "https://github.com/advaith-unnikrishnan"
-            },
-            {
-                "linkType": "Twitter",
-                "link": "https://twitter.com/advaith_u"
+                "link": "https://github.com/BenGeorgeNetto/"
             }
+          
         ]
     },
     {
-        "displayPicture": "./assets/img/team/M Aswin Kishore.png",
-        "name": "M Aswin Kishore",
-        "description": "Project Lead",
-        "links": [
-            {
-                "linkType": "Website",
-                "link": "https://mak626.github.io"
-            },
-            {
-                "linkType": "LinkedIn",
-                "link": "https://www.linkedin.com/in/maswinkishore/"
-            },
-            {
-                "linkType": "Github",
-                "link": "https://github.com/mak626"
-            },
-            {
-                "linkType": "Twitter",
-                "link": "https://twitter.com/maswinkishore"
-            }
-        ]
-    },
-    {
-        "displayPicture": "./assets/img/team/Salman Faariz.png",
-        "name": "Salman Faariz",
+        "displayPicture": "./assets/img/team/litto.png",
+        "name": "Litto K Lal",
         "description": "Management Lead",
         "links": [
             {
                 "linkType": "LinkedIn",
-                "link": "https://www.linkedin.com/in/salman-faariz-37b892194"
+                "link": "https://www.linkedin.com/in/litto"
             }
         ]
     },
     {
-        "displayPicture": "./assets/img/team/Adityan Babu.png",
-        "name": "Adityan Babu",
-        "description": "Community Manager",
+        "displayPicture": "./assets/img/team/sophy.png",
+        "name": "Sophy Maria Joy",
+        "description": "Community Organizer",
+        "links": [
+            
+        ]
+    },
+    {
+        "displayPicture": "./assets/img/team/aaron.png",
+        "name": "Aaron K",
+        "description": "Community Organizer",
+        "links": [
+           
+        ]
+    },
+    {
+        "displayPicture": "./assets/img/team/sam.png",
+        "name": "Sam Peter",
+        "description": "Community Organizer",
         "links": [
             {
                 "linkType": "LinkedIn",
-                "link": "https://www.linkedin.com/in/adithyan-babu-294759214/"
+                "link": "https://www.linkedin.com/in/samthe030201/"
             },
             {
                 "linkType": "Github",
-                "link": "https://github.com/AdithyanBabu"
-            },
-            {
-                "linkType": "Twitter",
-                "link": "https://twitter.com/AdithyanBabu6"
+                "link": " https://github.com/samthe030201/"
             }
         ]
     },
+  
     {
-        "displayPicture": "./assets/img/team/Ben George Netto.png",
-        "name": "Ben George Netto",
-        "description": "Community Manager",
-        "links": [
-            {
-                "linkType": "LinkedIn",
-                "link": "https://www.linkedin.com/in/bengeorgenetto/"
-            }
-        ]
-    },
-    {
-        "displayPicture": "./assets/img/team/Amal Joe R S.png",
-        "name": "Amal Joe R S",
-        "description": "App Lead",
-        "links": [
-            {
-                "linkType": "LinkedIn",
-                "link": "https://www.linkedin.com/in/amal-joe-r-s-16a50918b"
-            },
-            {
-                "linkType": "Github",
-                "link": "https://github.com/amaljoe"
-            }
-        ]
-    },
-    {
-        "displayPicture": "./assets/img/team/Kevin Jacob.png",
-        "name": "Kevin Jacob",
-        "description": " Web Lead",
-        "links": [
-            {
-                "linkType": "Website",
-                "link": "https://kevinjacob.in"
-            },
-            {
-                "linkType": "LinkedIn",
-                "link": "https://www.linkedin.com/in/kevinjacob2001/"
-            },
-            {
-                "linkType": "Github",
-                "link": "https://github.com/kevinjacob2001"
-            },
-            {
-                "linkType": "Twitter",
-                "link": "https://github.com/kevinjacob2001"
-            }
-        ]
-    },
-    {
-        "displayPicture": "./assets/img/team/Yoosuf Shaheed.png",
+        "displayPicture": "./assets/img/team/yoosuf.png",
         "name": "Yoosuf Shaheed",
-        "description": "Web Developer",
+        "description": "Tech lead",
         "links": [
             {
                 "linkType": "LinkedIn",
@@ -178,84 +128,52 @@
         ]
     },
     {
-        "displayPicture": "./assets/img/team/N Nihal.png",
-        "name": "N Nihal",
+        "displayPicture": "./assets/img/team/ritin.png",
+        "name": "Ritin George D",
+        "description": "Web Developer",
+        "links": [
+           
+        ]
+    },
+    {
+        "displayPicture": "./assets/img/team/liya.png",
+        "name": "Liya Susan Biju",
         "description": "Web Developer",
         "links": [
             {
                 "linkType": "LinkedIn",
-                "link": "https://www.linkedin.com/in/nihal-n-b8a91b1aa"
+                "link": "https://www.linkedin.com/in/liya-susan-biju-406241230/"
             },
             {
                 "linkType": "Github",
-                "link": "https://github.com/niha1n"
-            },
-            {
-                "linkType": "Twitter",
-                "link": "https://twitter.com/nihaln135"
+                "link": "https://github.com/Liya-Susan"
             }
         ]
+       
     },
     {
-        "displayPicture": "./assets/img/team/Litto K Lal.png",
-        "name": "Litto K Lal",
+        "displayPicture": "./assets/img/team/gopal.png",
+        "name": "Gopal S",
         "description": "App Developer",
         "links": [
-            {
-                "linkType": "LinkedIn",
-                "link": "https://www.linkedin.com/in/litto"
-            }
+           
         ]
+        
     },
     {
-        "displayPicture": "./assets/img/team/Navaneeth Venu.png",
-        "name": "Navaneeth Venu",
-        "description": "Creative Lead",
+        "displayPicture": "./assets/img/team/aditya.png",
+        "name": "Aditya S",
+        "description": "Backend Developer",
         "links": [
-            {
-                "linkType": "Website",
-                "link": " https://navaneethvenu.github.io/"
-            },
-            {
-                "linkType": "LinkedIn",
-                "link": "https://www.linkedin.com/in/navaneeth-venu-3481a31b5/"
-            },
-            {
-                "linkType": "Github",
-                "link": "https://github.com/navaneethvenu"
-            },
-            {
-                "linkType": "Twitter",
-                "link": "https://twitter.com/navaneethvenu"
-            }
+           
         ]
+        
     },
+   
     {
-        "displayPicture": "./assets/img/team/Varsha Renjith.png",
-        "name": "Varsha Renjith",
-        "description": "UI/UX Designer",
-        "links": [
-            {
-                "linkType": "LinkedIn",
-                "link": "https://www.linkedin.com/in/varsha-renjith"
-            }
-        ]
-    },
-    {
-        "displayPicture": "./assets/img/team/Meenakshy Panicker.png",
-        "name": "Meenakshy Panicker",
-        "description": "Graphic Designer",
-        "links": [
-            {
-                "linkType": "LinkedIn",
-                "link": "https://www.linkedin.com/in/meenakshy-panicker-8b2773200"
-            }
-        ]
-    },
-    {
-        "displayPicture": "./assets/img/team/Mithun KS.png",
+        "displayPicture": "./assets/img/team/mithun.png",
         "name": "Mithun KS",
-        "description": "Graphic Designer",
+        "description": "Motion Design Lead",
         "links": [
             {
                 "linkType": "LinkedIn",
@@ -272,9 +190,9 @@
         ]
     },
     {
-        "displayPicture": "./assets/img/team/R Sreelekshmi.png",
+        "displayPicture": "./assets/img/team/sree.png",
         "name": "R Sreelekshmi",
-        "description": "Graphic Designer",
+        "description": "Graphic Design Lead",
         "links": [
             {
                 "linkType": "LinkedIn",
@@ -287,66 +205,42 @@
         ]
     },
     {
-        "displayPicture": "./assets/img/team/Sanna Pramod.png",
-        "name": "Sanna Pramod",
-        "description": "Social Media Head",
+        "displayPicture": "./assets/img/team/jins.png",
+        "name": "Jins K Varughese",
+        "description": "Video Editor",
         "links": [
             {
                 "linkType": "LinkedIn",
-                "link": "https://www.linkedin.com/in/sanna-pramod-2565b7187/"
+                "link": ""
             },
             {
                 "linkType": "Github",
-                "link": "https://github.com/SannaPramod"
-            },
-            {
-                "linkType": "Twitter",
-                "link": "https://twitter.com/SannaPramod"
+                "link": ""
             }
         ]
     },
     {
-        "displayPicture": "./assets/img/team/Ashwin Mathew.png",
-        "name": "Ashwin Mathew",
-        "description": "Content Curator",
+        "displayPicture": "./assets/img/team/ferwin.png",
+        "name": "Ferwin Lopez",
+        "description": "Graphic Designer",
         "links": [
-            {
-                "linkType": "LinkedIn",
-                "link": "https://www.linkedin.com/in/ashwin-mathew-0307811b1"
-            },
-            {
-                "linkType": "Github",
-                "link": "https://github.com/Ashwinmathew27"
-            },
-            {
-                "linkType": "Twitter",
-                "link": "https://twitter.com/Ashwinm81122292?s=03"
-            }
+            
         ]
     },
     {
-        "displayPicture": "./assets/img/team/Mohammed Rawther.png",
-        "name": "Mohammed Rawther",
-        "description": "Outreach Manager",
+        "displayPicture": "./assets/img/team/vinu.png",
+        "name": "Vinu B kurup",
+        "description": "Graphic Designer",
         "links": [
-            {
-                "linkType": "LinkedIn",
-                "link": "https://www.linkedin.com/in/mohammedrawther"
-            },
-            {
-                "linkType": "Github",
-                "link": "https://github.com/Rawther-007"
-            },
-            {
-                "linkType": "Twitter",
-                "link": "https://twitter.com/mrawther007"
-            }
+           
         ]
     },
+
+
     {
-        "displayPicture": "./assets/img/team/Noel Varughese.png",
+        "displayPicture": "./assets/img/team/noel.png",
         "name": "Noel Varughese",
-        "description": "Content Curator",
+        "description": "Social Media Head",
         "links": [
             {
                 "linkType": "LinkedIn",
@@ -360,6 +254,38 @@
                 "linkType": "Twitter",
                 "link": "https://twitter.com/noel_205"
             }
+        ]
+    },
+    {
+            "displayPicture": "./assets/img/team/joel.png",
+            "name": "Joel lpe Samuel",
+            "description": "Content Curator",
+            "links": [
+                {
+                    "linkType": "LinkedIn",
+                    "link": "https://www.linkedin.com/in/joel-ipe-samuel-b35422244"
+                },
+        
+                {
+                    "linkType": "Twitter",
+                    "link": "https://twitter.com/Cinotcetsa"
+                }
+            ]
+    },
+    {
+        "displayPicture": "./assets/img/team/rachana.png",
+        "name": "C Rachana",
+        "description": "Content Curator",
+        "links": [
+           
+        ]
+    },
+    {
+        "displayPicture": "./assets/img/team/nandana.png",
+        "name": "Nandana TS",
+        "description": "Content Curator",
+        "links": [
+            
         ]
     }
 ]
