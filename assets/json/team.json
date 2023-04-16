@@ -20,6 +20,10 @@
         "description": "GDSC Lead",
         "links": [
             {
+                "linkType": "Website",
+                "link": "https://bio.link/varsharenjith "
+            },
+            {
                 "linkType": "LinkedIn",
                 "link": "https://www.linkedin.com/in/varsha-renjith"
             }
@@ -61,6 +65,10 @@
             {
                 "linkType": "Github",
                 "link": "https://github.com/BenGeorgeNetto/"
+            },
+            {
+                "linkType": "Twitter",
+                "link": "https://twitter.com/BenGeorgeNetto"
             }
           
         ]
@@ -81,7 +89,10 @@
         "name": "Sophy Maria Joy",
         "description": "Community Organizer",
         "links": [
-            
+            {
+                "linkType": "LinkedIn",
+                "link": "https://www.linkedin.com/in/sophy-maria-joy-84710a248"
+            }
         ]
     },
     {
@@ -89,7 +100,22 @@
         "name": "Aaron K",
         "description": "Community Organizer",
         "links": [
-           
+            {
+                "linkType": "Website",
+                "link": "https://bio.link/aaronk"
+            },
+            {
+                "linkType": "LinkedIn",
+                "link": " https://www.linkedin.com/in/aaron-k-9779b6211/ "
+            },
+            {
+                "linkType": "Github",
+                "link": "https://github.com/03aar"
+            },
+            {
+                "linkType": "Twitter",
+                "link": "https://twitter.com/AARON68706768"
+            }
         ]
     },
     {
@@ -156,7 +182,19 @@
         "name": "Gopal S",
         "description": "App Developer",
         "links": [
-           
+            {
+                "linkType": "Website",
+                "link": "https://bio.link/gopalshibu"
+            },
+            {
+                "linkType": "LinkedIn",
+                "link": "https://www.linkedin.com/in/gopal-shibu-b83232205"
+            },
+            {
+                "linkType": "Github",
+                "link": "https://github.com/gopalshibu142"
+            }
+          
         ]
         
     },
@@ -165,7 +203,22 @@
         "name": "Aditya S",
         "description": "Backend Developer",
         "links": [
-           
+            {
+                "linkType": "Website",
+                "link": "https://xditya.me"
+            },
+            {
+                "linkType": "LinkedIn",
+                "link": "https://linkedin.com/in/xditya"
+            },
+            {
+                "linkType": "Github",
+                "link": "https://github.com/xditya"
+            },
+            {
+                "linkType": "Twitter",
+                "link": "https://twitter.com/its_xditya"
+            }
         ]
         
     },
@@ -195,12 +248,16 @@
         "description": "Graphic Design Lead",
         "links": [
             {
-                "linkType": "LinkedIn",
-                "link": "https://www.linkedin.com/in/r-sreelekshmi/"
+                "linkType": "Website",
+                "link": "https://reez07.github.io/Portfolio/"
             },
             {
-                "linkType": "Github",
-                "link": "https://github.com/Reez07"
+                "linkType": "LinkedIn",
+                "link": "https://www.linkedin.com/in/r-sreelekshmi"
+            },
+            {
+                "linkType": "Twitter",
+                "link": " https://twitter.com/R_Sreelekshmi_?t=GTp_kKV6WuSvJk7aa3Zspg&s=09"
             }
         ]
     },
@@ -209,7 +266,14 @@
         "name": "Jins K Varughese",
         "description": "Video Editor",
         "links": [
-           
+            {
+                "linkType": "LinkedIn",
+                "link": "https://www.linkedin.com/in/jins-varghese-28a18a252/"
+            },
+            {
+                "linkType": "Twitter",
+                "link": "https://twitter.com/jinskvarghese"
+            }
         ]
     },
     {
@@ -217,7 +281,18 @@
         "name": "Ferwin Lopez",
         "description": "Graphic Designer",
         "links": [
-            
+            {
+                "linkType": "LinkedIn",
+                "link": "https://www.linkedin.com/in/ferwin-lopez/"
+            },
+            {
+                "linkType": "Github",
+                "link": "https://github.com/Fer-Win"
+            },
+            {
+                "linkType": "Twitter",
+                "link": "https://twitter.com/lopez_ferwin"
+            }
         ]
     },
     {
@@ -238,10 +313,6 @@
             {
                 "linkType": "LinkedIn",
                 "link": "https://www.linkedin.com/in/noelvarughese/"
-            },
-            {
-                "linkType": "Github",
-                "link": "https://github.com/noelvarughese02"
             },
             {
                 "linkType": "Twitter",
@@ -278,7 +349,14 @@
         "name": "Nandana TS",
         "description": "Content Curator",
         "links": [
-            
+            {
+                "linkType": "LinkedIn",
+                "link": "https://www.linkedin.com/in/nandana-t-s-910390247"
+            },
+            {
+                "linkType": "Twitter",
+                "link": "https://twitter.com/NandanaTS5?t=7Ij1ummfGi7SUbuB9kEcDw&s=09 "
+            }
         ]
     }
 ]
