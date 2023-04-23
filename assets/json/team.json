@@ -158,7 +158,14 @@
         "name": "Ritin George D",
         "description": "Web Developer",
         "links": [
-           
+            {
+                "linkType": "Github",
+                "link":"https://github.com/aurora-0025"
+            },
+            {
+                "linkType": "Twitter",
+                "link": "https://twitter.com/ritin_d"
+            }
         ]
     },
     {
